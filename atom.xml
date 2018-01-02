@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://areirei.github.io/"/>
-  <updated>2017-12-14T09:48:11.165Z</updated>
+  <updated>2018-01-02T08:24:01.574Z</updated>
   <id>https://areirei.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Laravel-mvc-pattern</title>
+    <link href="https://areirei.github.io/2017/12/24/Laravel-mvc-pattern/"/>
+    <id>https://areirei.github.io/2017/12/24/Laravel-mvc-pattern/</id>
+    <published>2017-12-24T02:37:30.000Z</published>
+    <updated>2018-01-02T08:24:01.574Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Laravel-基础的MVC分层"><a href="#Laravel-基础的MVC分层" class="headerlink" title="Laravel 基础的MVC分层"></a>Laravel 基础的MVC分层</h1><p>小型架构的MVC分层</p><ul><li>Model 数据层</li><li>View 视图层</li><li>Controller 控制层<a id="more"></a></li></ul><p>原本将这些逻辑处理都放在了Model层，随着项目的不断发展，数据逻辑和业务逻辑越发复杂，有时会将第三方信息发送获取，Redis数据存储，不同model的调度都写在了同一个Model上，导致model在原本数据访问的基础上，承担了更多的责任，编写维护都不再优雅高效。</p><h1 id="大型架构的MVC分层"><a href="#大型架构的MVC分层" class="headerlink" title="大型架构的MVC分层"></a>大型架构的MVC分层</h1><p><img src="https://raw.githubusercontent.com/areirei/fileStore/master/mvc_big.png" alt="MVC分层"></p><ol><li>Model      : 数据映射层</li><li>Repository : 将Model获取的数据封装成对像的集合并提供操作</li><li>Service    : 封装业务逻辑</li><li>Controller ：接收请求并调用Service</li><li>View       : HTML页面</li></ol><p>Service调用Repository来获取数据，相互协调</p><ol><li>通过Repository将数据操作和数据访问从Model中分离</li><li>通过Services处理复杂的业务逻辑</li><li>Controller可调度不同的Service</li></ol><p><img src="https://raw.githubusercontent.com/areirei/fileStore/master/file_interface.png" alt="MVC分层"></p><h4 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h4><p>当你开始接受这种设定，会感觉到laravel式的优雅编程和其它优点</p><ol><li>数据访问逻辑集中处理（易于维护）</li><li>业务和数据逻辑的完全分离（易于调试）</li><li>减少重复代码</li><li>降低程序出错的机率</li><li>将来切近到其它的ORM也很容易（解耦对数据源的依赖）</li></ol><h4 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h4><p><a href="http://oomusou.io/laravel/laravel-architecture/" target="_blank" rel="external">Laravel 的中大型專案架構</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Laravel-基础的MVC分层&quot;&gt;&lt;a href=&quot;#Laravel-基础的MVC分层&quot; class=&quot;headerlink&quot; title=&quot;Laravel 基础的MVC分层&quot;&gt;&lt;/a&gt;Laravel 基础的MVC分层&lt;/h1&gt;&lt;p&gt;小型架构的MVC分层&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Model 数据层&lt;/li&gt;
+&lt;li&gt;View 视图层&lt;/li&gt;
+&lt;li&gt;Controller 控制层
+    
+    </summary>
+    
+    
+      <category term="laravel,mvc" scheme="https://areirei.github.io/tags/laravel-mvc/"/>
+    
+  </entry>
   
   <entry>
     <title>Laravel 小型架构的Model分层</title>
