@@ -5,7 +5,7 @@ tags: laravel,Eloquent
 desc: laravel,model query scope
 ---
 
-# Laravel 小型架构的MVC分层
+## Laravel 小型架构的MVC分层
 在刚开始使用laravel的过程中，我们需要将代码分层
  - Model 数据层
  - View 视图层
@@ -13,7 +13,7 @@ desc: laravel,model query scope
 <!-- more -->
 在这个基础上我们在用控制层获取数据的时候，就可以用上Laravel的Eloquent中的本地作用域，将数据处理和业务逻辑都集中在Model层，让控制层只做调度的功能;
 
-# Eloquent Query Scopes
+## Eloquent Query Scopes
 首先在模型文件中新增一个方法
 ```
 <?php
