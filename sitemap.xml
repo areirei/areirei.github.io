@@ -2,30 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://areirei.github.io/2017/12/14/Laravel-eloquent-query-scope/</loc>
+    <loc>https://areirei.github.io/2018/01/02/Laravel-role-middleware/</loc>
     
-    <lastmod>2018-01-02T08:35:03.530Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://areirei.github.io/2017/09/11/Laravel-custom-error-pages/</loc>
-    
-    <lastmod>2018-01-02T08:35:02.590Z</lastmod>
+    <lastmod>2018-01-06T03:29:46.160Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://areirei.github.io/2017/12/24/Laravel-mvc-pattern/</loc>
     
-    <lastmod>2018-01-02T08:33:18.270Z</lastmod>
+    <lastmod>2018-01-03T08:25:37.888Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://areirei.github.io/2017/09/10/hello-world/</loc>
     
-    <lastmod>2017-12-14T05:50:57.921Z</lastmod>
+    <lastmod>2018-01-02T09:32:35.586Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://areirei.github.io/2017/12/14/Laravel-eloquent-query-scope/</loc>
+    
+    <lastmod>2018-01-02T09:32:35.585Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://areirei.github.io/2017/09/11/Laravel-custom-error-pages/</loc>
+    
+    <lastmod>2018-01-02T09:32:35.584Z</lastmod>
     
   </url>
   
