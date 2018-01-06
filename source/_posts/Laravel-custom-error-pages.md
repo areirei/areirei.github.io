@@ -1,10 +1,9 @@
 ---
-title: Laravel-custom-error-pages
+title: Laravel-定制500错误页
 date: 2017-09-11 21:54:50
 tags: laravel,errors
-desc: Laravel定制500错误页,异常处理
+desc: Laravel定制500错误页,Laravel-custom-error-pages
 ---
-## Laravel - 定制500错误页
 laravel中想要定义一个错误页面和调用错误页面很简单,在`resources/views/errors`文件夹中写入`404.blade.php`(请求错误代码+‘blade.php’)文件即可,因为在Laravel 5 中，所有异常处理都集中处理了，这是HTTP 异常的默认行为。<!-- more -->
 
 ## 500错误

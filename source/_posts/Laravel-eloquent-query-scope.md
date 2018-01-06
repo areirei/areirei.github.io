@@ -4,8 +4,6 @@ date: 2017-12-14 13:58:45
 tags: laravel,Eloquent
 desc: laravel,model query scope
 ---
-
-## Laravel 小型架构的MVC分层
 在刚开始使用laravel的过程中，我们需要将代码分层
  - Model 数据层
  - View 视图层

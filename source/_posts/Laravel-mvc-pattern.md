@@ -1,11 +1,9 @@
 ---
-title: Laravel-mvc-pattern
+title: laravel大型架构的MVC分层
 date: 2017-12-24 10:37:30
 tags: laravel,mvc
-desc: laravel
+desc: Laravel-mvc-pattern
 ---
-
-## Laravel 基础的MVC分层
 小型架构的MVC分层
  - Model 数据层
  - View 视图层
@@ -16,7 +14,7 @@ desc: laravel
 
 ## 大型架构的MVC分层
 
-![MVC分层](https://raw.githubusercontent.com/areirei/fileStore/master/mvc_big.png)
+![MVC分层](https://raw.githubusercontent.com/areirei/fileStore/master/pic/mvc_big.png)
 
 1. Model      : 数据映射层
 1. Repository : 将Model获取的数据封装成对像的集合并提供操作
@@ -30,7 +28,7 @@ Service调用Repository来获取数据，相互协调
 1. 通过Services处理复杂的业务逻辑
 1. Controller可调度不同的Service
 
-![MVC分层](https://raw.githubusercontent.com/areirei/fileStore/master/file_interface.png)
+![MVC分层](https://raw.githubusercontent.com/areirei/fileStore/master/pic/file_interface.png)
 
 ### 最后
 当你开始接受这种设定，会感觉到laravel式的优雅编程和其它优点
