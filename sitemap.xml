@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://areirei.github.io/2018/03/20/Laravel-vue-environment/</loc>
+    
+    <lastmod>2018-03-23T02:32:22.994Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://areirei.github.io/2018/01/02/Laravel-role-middleware/</loc>
     
     <lastmod>2018-01-06T03:34:35.308Z</lastmod>
