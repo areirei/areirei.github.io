@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://areirei.github.io/2018/03/20/Laravel-vue-environment/</loc>
+    
+    <lastmod>2018-03-23T07:57:54.159Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://areirei.github.io/2017/09/10/hello-world/</loc>
     
     <lastmod>2018-03-23T07:26:15.792Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://areirei.github.io/2017/09/11/Laravel-custom-error-pages/</loc>
     
     <lastmod>2018-03-23T07:26:15.788Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://areirei.github.io/2018/03/20/Laravel-vue-environment/</loc>
-    
-    <lastmod>2018-03-23T02:51:07.052Z</lastmod>
     
   </url>
   
