@@ -9,21 +9,22 @@ desc: 本教程介绍在Laravel中部署vue
 
 # 创建laravel
 首先，你要有一个[composer](https://getcomposer.org/download/),然后，你便有了一个[laravel](https://laravel.com/docs/5.6)。
-(运行命令`composer create-project --prefer-dist laravel/laravel blog`创建一个新的laravel项目)。
+运行命令`composer create-project --prefer-dist laravel/laravel blog`创建一个新的laravel项目（具体创建laravel请到官网学习）。
 
 # Hello world!
 1. 打开命令行，进入你的项目内`cd blog`
-2. 在开始前，先下载项目默认依赖，由于各种你懂得原因，npm作为国外的node仓库安装工具，操作的时候可能会发生速度慢等各种问题，一般推荐用taobao源进行加速,下面代码同样加上后缀即可
+
+2. 在开始前，由于各种你懂得原因，npm作为国外的node仓库安装工具，操作的时候可能会发生速度慢等各种问题，一般推荐用taobao源进行加速,后面代码同样加上后缀即可，下载项目默认依赖，代码如下。
 ```
 npm install  --registry=https://registry.npm.taobao.org
 ```
 
-3. 下载vue路由管理
+3. 下载vue路由管理，代码如下。
 ```
 npm install vue-router --save-dev
 ```
 
-4. 在`/resources/assets/js/components`中新建一个`HelloComponent.vue`自定义组件文件。
+4. 在`/resources/assets/js/components`中新建一个`HelloComponent.vue`自定义组件文件，代码如下。
 ```
 <template>
     <div>
@@ -42,7 +43,7 @@ npm install vue-router --save-dev
 </script>
 ```
 
-5. 在`/resources/assets/js`下新建文件夹`router`,并在里面新建`hello.js`,并通过嵌套路由配置将`hello`路由映射到刚刚新创建的`HellowComponent`组件当中。
+5. 在`/resources/assets/js`下新建文件夹`router`,并在里面新建`hello.js`,并通过嵌套路由配置将`hello`路由映射到刚刚新创建的`HellowComponent`组件当中，代码如下。
 ```
 import Vue from 'vue'
 import VueRouter from 'vue-router'
@@ -59,7 +60,8 @@ export default new VueRouter({
     ]
 })
 ```
-6. 在当前laravel项目中`/resources/assets/js`下新建`hello.vue`,做为主界面，嵌套路由视图。
+
+6. 在当前laravel项目中`/resources/assets/js`下新建`hello.vue`,做为主界面，嵌套路由视图，代码如下。
 ```
 <template>
     <div>
@@ -78,7 +80,8 @@ export default new VueRouter({
     }
 </script>
 ```
-7. 接着在`/resources/assets/js`下新建`hello.js`
+
+7. 接着在`/resources/assets/js`下新建`hello.js`，代码如下。
 ```
 require('./bootstrap');
 
@@ -94,7 +97,7 @@ const app = new Vue({
 });
 ```
 
-8. 在`/resources/views`下新建`hello.blade.php `
+8. 在`/resources/views`下新建`hello.blade.php `，代码如下。
 ```
 <!DOCTYPE html>
 <html>
@@ -112,12 +115,12 @@ const app = new Vue({
 </html>
 ```
 
-9. 在`/resources/routes/web.php`中新增路由
+9. 在`/resources/routes/web.php`中新增路由，代码如下。
 ```
 Route::view('/hello','/hello');
 ```
 
-10. 修改`webpack.mix.js`
+10. 修改`webpack.mix.js`，代码如下。
 ```
 mix.js('resources/assets/js/app.js', 'public/js')
    .js('resources/assets/js/hello.js', 'public/js')

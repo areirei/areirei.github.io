@@ -77,6 +77,6 @@ deploy:
 
      type: git
 
-     repo: https://github.com/areirei/areirei.github.io.git
+     repo: git@github.com:areirei/areirei.github.io.git
 
      branch: master
