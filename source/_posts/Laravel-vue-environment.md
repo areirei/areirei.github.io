@@ -1,5 +1,5 @@
 ---
-title: Laravel结合vue之项目内部署
+title: Laravel+vue环境之项目内部署
 date: 2018-03-20 17:09:02
 tags: laravel,vue,environment,construction
 desc: 本教程介绍在Laravel中部署vue
@@ -137,3 +137,7 @@ mix.js('resources/assets/js/app.js', 'public/js')
 # 最后
 有时候运行npm时会提示`Write EIO`错误，可能是因为编码的问题造成，这种时候可用管理员身份运行命令行文件，或者运行`chcp 850`设置活动代码页编号，介绍在laravel中部署vue的教程基本结束，如果您有兴趣了解更多关于编写Vue组件的信息,你可以阅读[Vue文档](https://vuejs.org/v2/guide/),就酱。
  \(•ㅂ•)/♥  共勉~
+
+#参考链接
+[Laravel 官方文档](https://laravel.com/docs/5.6)
+[原文链接](https://areirei.github.io/2018/03/20/Laravel-vue-environment/)
