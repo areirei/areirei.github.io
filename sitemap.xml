@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://areirei.github.io/2018/04/09/testing-phpunit/</loc>
+    
+    <lastmod>2018-04-09T03:33:01.845Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://areirei.github.io/2018/03/26/Linux-mysql-install/</loc>
     
     <lastmod>2018-03-28T02:11:02.965Z</lastmod>
