@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://areirei.github.io/2018/04/20/PHP-Interview/</loc>
+    
+    <lastmod>2018-04-22T02:07:58.577Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://areirei.github.io/2018/04/09/testing-phpunit/</loc>
     
-    <lastmod>2018-04-09T03:33:01.845Z</lastmod>
+    <lastmod>2018-04-09T03:37:00.328Z</lastmod>
     
   </url>
   
