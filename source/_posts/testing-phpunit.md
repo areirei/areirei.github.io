@@ -4,7 +4,7 @@ date: 2018-04-09 10:13:54
 tags: laravel,test,testing,phpunit,php
 ---
 
-[Laravel](https://laravel.com/docs/5.6/testing)建立在考虑测试的基础上，其中工程化的一大特点就是可测试性。事实上，支持使用[PHPUnit](http://phpunit.readthedocs.io/zh_CN/latest/index.html)进行测试的功能已经包含在内，并且已经为您的应用程序设置了一个文件。该框架还附带了方便的帮助程序方法，使您能够表达测试您的应用程序。<!-- more -->
+[Laravel](https://laravel.com/docs/5.6/testing)建立在考虑测试的基础上，其中工程化的一大特点就是**可测试性**。事实上，支持使用[PHPUnit](http://phpunit.readthedocs.io/zh_CN/latest/index.html)进行测试的功能已经包含在内，并且已经为您的应用程序设置了一个文件。该框架还附带了方便的帮助程序方法，使您能够表达测试您的应用程序。<!-- more -->
 默认情况下，您的应用程序的`tests`目录包含两个目录：`Feature`和`Unit`。**单元测试**是关注代码中非常小的，孤立部分的测试。实际上，大多数单元测试可能只关注单一方法。**功能测试**可能会测试代码的大部分内容，包括几个对象如何相互交互，甚至是完整的HTTP请求到JSON端点。
 <div class="tip">PHPUnit是最早和最知名的PHP单元测试包之一。它主要是为单元测试而设计的，这意味着尽可能在最小的组件上测试代码，但它也非常灵活，可以用于单元测试。</div>
 
