@@ -2,30 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://areirei.github.io/2018/04/20/PHP-Interview/</loc>
+    <loc>https://areirei.github.io/2018/05/05/Certbot-https-nginx-error/</loc>
     
-    <lastmod>2018-04-22T02:38:30.310Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://areirei.github.io/2018/04/09/testing-phpunit/</loc>
-    
-    <lastmod>2018-04-09T03:37:00.328Z</lastmod>
+    <lastmod>2018-05-05T08:24:51.319Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://areirei.github.io/2018/03/26/Linux-mysql-install/</loc>
+    <loc>https://areirei.github.io/2018/01/02/Laravel-role-middleware/</loc>
     
-    <lastmod>2018-03-28T02:11:02.965Z</lastmod>
+    <lastmod>2018-05-05T07:21:31.877Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://areirei.github.io/2018/03/20/Laravel-vue-environment/</loc>
     
-    <lastmod>2018-03-23T09:40:04.487Z</lastmod>
+    <lastmod>2018-05-05T07:21:30.111Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://areirei.github.io/2018/03/26/Linux-mysql-install/</loc>
+    
+    <lastmod>2018-05-05T07:21:26.551Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://areirei.github.io/2018/04/09/testing-phpunit/</loc>
+    
+    <lastmod>2018-05-05T07:21:14.720Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://areirei.github.io/2017/12/24/Laravel-mvc-pattern/</loc>
+    
+    <lastmod>2018-05-05T07:20:27.696Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://areirei.github.io/2017/09/11/Laravel-custom-error-pages/</loc>
+    
+    <lastmod>2018-05-05T07:20:14.784Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://areirei.github.io/2017/12/14/Laravel-eloquent-query-scope/</loc>
+    
+    <lastmod>2018-05-05T07:20:09.441Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://areirei.github.io/2018/04/20/PHP-Interview/</loc>
+    
+    <lastmod>2018-04-22T02:45:41.112Z</lastmod>
     
   </url>
   
@@ -33,34 +68,6 @@
     <loc>https://areirei.github.io/2017/09/10/hello-world/</loc>
     
     <lastmod>2018-03-23T07:26:15.792Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://areirei.github.io/2018/01/02/Laravel-role-middleware/</loc>
-    
-    <lastmod>2018-03-23T07:26:15.791Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://areirei.github.io/2017/12/24/Laravel-mvc-pattern/</loc>
-    
-    <lastmod>2018-03-23T07:26:15.790Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://areirei.github.io/2017/12/14/Laravel-eloquent-query-scope/</loc>
-    
-    <lastmod>2018-03-23T07:26:15.789Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://areirei.github.io/2017/09/11/Laravel-custom-error-pages/</loc>
-    
-    <lastmod>2018-03-23T07:26:15.788Z</lastmod>
     
   </url>
   
