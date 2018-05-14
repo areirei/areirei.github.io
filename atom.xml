@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://areirei.github.io/"/>
-  <updated>2018-05-05T08:24:51.319Z</updated>
+  <updated>2018-05-14T03:43:57.894Z</updated>
   <id>https://areirei.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>浅淡工作流与编程环境自动化</title>
+    <link href="https://areirei.github.io/2018/05/12/discussion-on-workflow/"/>
+    <id>https://areirei.github.io/2018/05/12/discussion-on-workflow/</id>
+    <published>2018-05-12T10:31:55.000Z</published>
+    <updated>2018-05-14T03:43:57.894Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>什么是工作流？</li><li>工作流和企业管理有什么关系？</li><li>工作流对编程有什么新的帮助？</li></ul><p>工作流的<strong>概念</strong>起源于生产组织和办公自动化领域，提出的目的是通过将工作分解成定义良好的任务、角色，<strong>按照一定的规则和过程来执行这些任务并对它们进行监控</strong>，达到提高工作效率、降低生产成本、提高企业生产经营管理水平和企业竞争力的目标。</p><blockquote><p>工作流（Workflow），是对工作流程及其各操作步骤之间业务规则的抽象、概括描述。工作流建模，即将<strong>工作流程中的工作如何前后组织在一起的逻辑和规则</strong>，在计算机中以恰当的模型表达并对其实施计算。<br>工作流要解决的主要问题是：为实现某个业务目标，利用计算机在多个参与者之间按某种预定规则<strong>自动</strong>传递文档、信息或者任务。</p></blockquote><p>以上是<a href="https://zh.wikipedia.org/wiki/%E5%B7%A5%E4%BD%9C%E6%B5%81%E6%8A%80%E6%9C%AF" target="_blank" rel="external">维基百科</a>上对于工作流的定义.而业务流程为:</p><blockquote><p>达到特定目标由不同人完成的活动<br>以及企业内部资源之间的数据流动</p></blockquote><p>了解了这两个的含义之后，我们来看看企业管理系统中的工作流。<br><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Workflow.png" alt="tax Control"></p><h2 id="业务流程自动化"><a href="#业务流程自动化" class="headerlink" title="业务流程自动化"></a>业务流程自动化</h2><p>传统的企业管理是<strong>面向功能的事务处理</strong>,它为业务人员提供了丰富的业务处理功能，但是每个业务处理都不是孤立的，它一定与其他部门、其他人、其他事务有关，这就构成了一个<strong>业务流程</strong>。为此引入工作流技术,将业务流程自动化。</p><p>工作流可以是企业管理系统中的功能实现的一部分，也可以是系统业务流对接交换信息的相互协作，实现<strong>业务流程的管理、控制和过程的自动化</strong>。具体例子为：</p><ol><li>当填好申请加班费的表单后</li><li>根据当前员工的基本信息和加班时间，自动计算加班工资</li><li>当加班工资超过公司规定的数额，还会自动判断并发送给人事经理</li><li>再到上级经理审批</li><li>审批通过后，发送到财务系统，核算当月工资</li></ol><p>通过这种对于流程的再定义方式，灵活地将应用系统的功能连接在一起，能更好地经营或管理公司。</p><h2 id="计算机应用环境自动化"><a href="#计算机应用环境自动化" class="headerlink" title="计算机应用环境自动化"></a>计算机应用环境自动化</h2><p>你是不是还在手动合并雪碧图<br>你是不是还在手动将文件打包到指定目录<br>你是不是还在手动上传文件到线上服务器<br>….<br>在工作过程中发现，工作流的使用其实也不局限于企业过程管理，开发过程的效率提升,以及开发完成部署工作的简化，各个方面都是可以实现.例如：</p><ul><li><a href="https://github.com/Tencent/tmt-workflow" target="_blank" rel="external">tmt-workflow</a> 基于gulp的前端工作流开发工具</li><li><a href="https://github.com/Tencent/WeFlow" target="_blank" rel="external">WeFlow</a> 基于tmt-workflow的微信工作流开发工具</li><li><a href="https://github.com/jack-Lo/demos/tree/master/gulp-webpack_base" target="_blank" rel="external">gulp-webpack_base</a> 基于gulp与webpack的前端工作流的开发工具</li><li>。。。</li></ul><p><a href="https://github.com/" target="_blank" rel="external">Github</a>还有其它相关的工作流项目，甚至说在<a href="https://laravel.com/docs/5.6/mix" target="_blank" rel="external">Laravel-mix</a>的基础上进行二次整合，也能实现php工作流开发工具，并不拘泥于语言，在现代计算机技术的不断发展下，省下体力劳动，专注脑力，提高效率，才是王道。</p><div class="tip">自动打包源码并提交上传到线上服务器，圆你一个中国梦！</div><h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>看着<strong>面向功能</strong>企业管理的发展，有点类似以前编程多用低级语言（面向过程）到现代多用高级语言（面向对象）开发，其中<strong>抽象</strong>出的不同概念，不仅加快开发速度，还易于代码管理等。<br>相对的，如今各行各业也都已用上自动化或在发展相关技术，可按照希望的方式<strong>遵循业务流程，定制业务流程，匹配相应的业务模型，并根据工作方式进行调整</strong>，提高产出。未来已来，就酱。</p><p>(•ㅂ•)/♥  共勉~</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;什么是工作流？&lt;/li&gt;
+&lt;li&gt;工作流和企业管理有什么关系？&lt;/li&gt;
+&lt;li&gt;工作流对编程有什么新的帮助？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;工作流的&lt;strong&gt;概念&lt;/strong&gt;起源于生产组织和办公自动化领域，提出的目的是通过将工作分解成定义良好的任务、
+      
+    
+    </summary>
+    
+    
+      <category term="工作流" scheme="https://areirei.github.io/tags/%E5%B7%A5%E4%BD%9C%E6%B5%81/"/>
+    
+      <category term="编程" scheme="https://areirei.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>Certbot部署配置HTTPS及nginx报错解决</title>

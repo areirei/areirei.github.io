@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://areirei.github.io/2018/05/12/discussion-on-workflow/</loc>
+    
+    <lastmod>2018-05-14T03:43:57.894Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://areirei.github.io/2018/05/05/Certbot-https-nginx-error/</loc>
     
     <lastmod>2018-05-05T08:24:51.319Z</lastmod>
