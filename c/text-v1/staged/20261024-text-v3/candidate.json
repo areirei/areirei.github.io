@@ -1,0 +1,4117 @@
+{
+  "schema": 1,
+  "packages": [
+    {
+      "paper": {
+        "textEdition": {
+          "version": "c4f5b6320ccdfdc245ed8ce4c8b338186262ab5fa50a74d8b2c3150ad1d510a3",
+          "sourceLayoutHash": "f3fab8ca9c35c1ff1cc593430a2e91d552167908ab7f798ed4167f6ccb68a996",
+          "status": "verified",
+          "notices": [
+            "Part 1: source audio not supplied.",
+            "Part 2: source audio not supplied.",
+            "Part 3: source audio not supplied.",
+            "Part 4: source audio not supplied."
+          ]
+        },
+        "book": 1,
+        "test": "1",
+        "id": "cambridge-1-test-1-academic-pages",
+        "title": "剑雅 1 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 听力音频未提供",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。 该目录未提供本册听力音频。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 41
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 1
+          }
+        ]
+      },
+      "filename": "cambridge-1-test-1-academic-pages-7cd8ced8633a.zip",
+      "sha256": "7b32954405ae429a726751000453064d18fbc186ab7fb5214eb7100915149dae",
+      "bytes": 5663949,
+      "unpackedBytes": 6692182,
+      "missingAudio": true,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-1-test-1-academic-pages-7cd8ced8633a.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "db8d000a7bb526aa1c30c57a513ce6cd391d7fae42f16f14f08e9d924bf075de",
+          "sourceLayoutHash": "5bddcc78ae915c5dd485a398004bd8c3f2db0209ec6c0518f98fabb28857ee90",
+          "status": "verified",
+          "notices": [
+            "Part 1: source audio not supplied.",
+            "Part 2: source audio not supplied.",
+            "Part 3: source audio not supplied.",
+            "Part 4: source audio not supplied."
+          ]
+        },
+        "book": 1,
+        "test": "2",
+        "id": "cambridge-1-test-2-academic-pages",
+        "title": "剑雅 1 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 听力音频未提供",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。 该目录未提供本册听力音频。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 41
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 41
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 1
+          }
+        ]
+      },
+      "filename": "cambridge-1-test-2-academic-pages-f9eac5de3494.zip",
+      "sha256": "436c444f8f2dd356362dbd39798011c5080000230f9d7e25f485aca0e36169ee",
+      "bytes": 5897978,
+      "unpackedBytes": 6901659,
+      "missingAudio": true,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-1-test-2-academic-pages-f9eac5de3494.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "e2276c2f8cf104f1b5f27cef555772c46009ca3579089d0527bab7729cc3e45a",
+          "sourceLayoutHash": "32a335d2b80ec477134814263905ce24c4caef3c37a13bbfb3ecc4aa817ecb7a",
+          "status": "verified",
+          "notices": [
+            "Part 1: source audio not supplied.",
+            "Part 2: source audio not supplied.",
+            "Part 3: source audio not supplied.",
+            "Part 4: source audio not supplied."
+          ]
+        },
+        "book": 1,
+        "test": "3",
+        "id": "cambridge-1-test-3-academic-pages",
+        "title": "剑雅 1 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 听力音频未提供",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。 该目录未提供本册听力音频。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 42
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 38
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 1
+          }
+        ]
+      },
+      "filename": "cambridge-1-test-3-academic-pages-bfe4514aa24d.zip",
+      "sha256": "1e389fb1ff5c82db0761b35255314b832c04188f2e2da5a74fe2231e0867cef0",
+      "bytes": 5370476,
+      "unpackedBytes": 6434067,
+      "missingAudio": true,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-1-test-3-academic-pages-bfe4514aa24d.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "779286a0adaf1e56a268a6df3852a65c295fb1960e9f7050d78e5531bfb84314",
+          "sourceLayoutHash": "cbfb9321ebe53abb51fbff45e6a2eb263585f8fd3ad8569e7d9eaafe9c45987b",
+          "status": "verified",
+          "notices": [
+            "Part 1: source audio not supplied.",
+            "Part 2: source audio not supplied.",
+            "Part 3: source audio not supplied.",
+            "Part 4: source audio not supplied."
+          ]
+        },
+        "book": 1,
+        "test": "4",
+        "id": "cambridge-1-test-4-academic-pages",
+        "title": "剑雅 1 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 听力音频未提供",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。 该目录未提供本册听力音频。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 42
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 39
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 1
+          }
+        ]
+      },
+      "filename": "cambridge-1-test-4-academic-pages-19bef1a9371a.zip",
+      "sha256": "044750f6c3ce51ee4de6d8dff6e4a34e380ecac73b5d1613bfe6b2a097fa0911",
+      "bytes": 5475460,
+      "unpackedBytes": 6398423,
+      "missingAudio": true,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-1-test-4-academic-pages-19bef1a9371a.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "5576a46a7c3ff6fd42c520447426c1d52bba8204821e64baa15725eacb313b97",
+          "sourceLayoutHash": "55961af9ebae049467252b665cba6d66bd2743a2c01d304dad01417c7b898abd",
+          "status": "verified"
+        },
+        "book": 10,
+        "test": "1",
+        "id": "cambridge-10-test-1-academic-pages",
+        "title": "剑雅 10 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-10-test-1-academic-pages-fa1e0e3a4278.zip",
+      "sha256": "0e43d91f71121a9ac58cb33c0d37e63d19eded926369e78c8a65001659b004ad",
+      "bytes": 28115907,
+      "unpackedBytes": 29407314,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-10-test-1-academic-pages-fa1e0e3a4278.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "c1e8a3647d1fe46bcd4e3441e426a04b94928e1fa13d30fb708b8ec9bed089fd",
+          "sourceLayoutHash": "853f59b0f43fe06c044a9c7d90c74cc02ab0e708ab11a1fadf5f9c6eaeca9f32",
+          "status": "verified"
+        },
+        "book": 10,
+        "test": "2",
+        "id": "cambridge-10-test-2-academic-pages",
+        "title": "剑雅 10 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-10-test-2-academic-pages-a1e3be9e418a.zip",
+      "sha256": "0fe4ad4738996548965f67a9c7497fca1b89ef24570654dfe4eeefaa2882d52b",
+      "bytes": 28254350,
+      "unpackedBytes": 29565498,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-10-test-2-academic-pages-a1e3be9e418a.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "3a8157411dfc1a386818889c1ca580460c6b53053b63e30ca63389c87987cfa3",
+          "sourceLayoutHash": "b9326b2db2381dcd7b0bd6c4e7b79dafdda816d559d71427bd02ca88b831140a",
+          "status": "verified"
+        },
+        "book": 10,
+        "test": "3",
+        "id": "cambridge-10-test-3-academic-pages",
+        "title": "剑雅 10 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-10-test-3-academic-pages-a83a4087bb5d.zip",
+      "sha256": "811aa696a838c49115fa7170a620c7be489b95f33036f0631455a1d0e28890f9",
+      "bytes": 31081473,
+      "unpackedBytes": 32441261,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-10-test-3-academic-pages-a83a4087bb5d.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "86d7668e24cf864851e650ac9549a81d59d3a1f00b9fdcc492b4e2737037b76b",
+          "sourceLayoutHash": "43fb9104ee35fa4711a06dfb524a4e1849bbfd064c399ae0b487cdf03d3f169c",
+          "status": "verified"
+        },
+        "book": 10,
+        "test": "4",
+        "id": "cambridge-10-test-4-academic-pages",
+        "title": "剑雅 10 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-10-test-4-academic-pages-fb468ef25313.zip",
+      "sha256": "82e552d791610921b523de05cfd7782036fdfb54ea1353cc91b643b4d0a36ed6",
+      "bytes": 29354496,
+      "unpackedBytes": 30705095,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-10-test-4-academic-pages-fb468ef25313.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "886ad0accb085ba0c8247f0f821757f2e09357cdffaff69c83fd7740652bbe9b",
+          "sourceLayoutHash": "2271e77db0365eb76488df1822c42f54f0486cbaa483d45dc8c5c8270863afa3",
+          "status": "verified"
+        },
+        "book": 11,
+        "test": "1",
+        "id": "cambridge-11-test-1-academic-pages",
+        "title": "剑雅 11 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-11-test-1-academic-pages-40bc110599a1.zip",
+      "sha256": "b8131985d1e165578e3315824a2a595054d0fb48c5e10d47c4107fd82e95c781",
+      "bytes": 28128344,
+      "unpackedBytes": 36474792,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-11-test-1-academic-pages-40bc110599a1.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "f84cee36d3e08e866b97431550f5cf8cc65da0662b68de10ffb2bf8168e1f7b2",
+          "sourceLayoutHash": "6315e3ee6310ef1a726496dcaa1ec5ca4709b447509452ae064cba34e0e49df3",
+          "status": "verified"
+        },
+        "book": 11,
+        "test": "2",
+        "id": "cambridge-11-test-2-academic-pages",
+        "title": "剑雅 11 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-11-test-2-academic-pages-093b36418e1b.zip",
+      "sha256": "6f744292704c1862cdb95d5888cc02e7d1a3afb1ba9bc922d786ae41356ec449",
+      "bytes": 26360058,
+      "unpackedBytes": 34661610,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-11-test-2-academic-pages-093b36418e1b.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "92a2490aedfa9c04e82cb5b111b586e09faed8a7b40bdd5882630378020ca3fa",
+          "sourceLayoutHash": "2960afdc44cd6980650a1714c94e1ca4aa1a2efb58fd7f8cbefb190b2476d35d",
+          "status": "verified"
+        },
+        "book": 11,
+        "test": "3",
+        "id": "cambridge-11-test-3-academic-pages",
+        "title": "剑雅 11 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-11-test-3-academic-pages-d693daf4a1c7.zip",
+      "sha256": "6fa9c29b42c9e430356fabe763b8cc1ca4e21ae383def4974aec75371593b326",
+      "bytes": 25646616,
+      "unpackedBytes": 33812193,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-11-test-3-academic-pages-d693daf4a1c7.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "d8866668cdfa120491813546185e85aa64edaa82291003b03fd575f86ce7d606",
+          "sourceLayoutHash": "e2e9a73ee152d069938eeea2c26bf8d0937e7befbd4ca38c996b350ab76cee6a",
+          "status": "verified",
+          "notices": [
+            "Approved source erratum: reading Q19–26 were misnumbered in the source answer key. Corrected against question types, passage evidence and the accompanying reading analysis. Applies to new sessions only; stored submissions and active snapshots are unchanged."
+          ],
+          "answerErrata": [
+            "c11-t4-reading-19-26-20261024"
+          ]
+        },
+        "book": 11,
+        "test": "4",
+        "id": "cambridge-11-test-4-academic-pages",
+        "title": "剑雅 11 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-11-test-4-academic-pages-ad24ec5009d0.zip",
+      "sha256": "d2421b0d4147e3aef28346ae6c5e428930de6a4f0e6efdd0f3aa75e4d2398f95",
+      "bytes": 25340718,
+      "unpackedBytes": 33648856,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-11-test-4-academic-pages-ad24ec5009d0.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "3370daec90663312ac23735a047beccc39cfbe060573219d823c7a7f16d02f93",
+          "sourceLayoutHash": "0b5acaeab3cfa615526b357b0a79113d4f9ce8d7ad17ce3859d09ed7edbdd45a",
+          "status": "verified"
+        },
+        "book": 12,
+        "test": "5",
+        "id": "cambridge-12-test-5-academic-pages",
+        "title": "剑雅 12 · Test 5",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-12-test-5-academic-pages-8abc12077074.zip",
+      "sha256": "1555b70cc61452d18909e60d30d7720d8d222a5581fae0976042d38408d19bc7",
+      "bytes": 38927843,
+      "unpackedBytes": 49083319,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-12-test-5-academic-pages-8abc12077074.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "900426b736a18cd330920a320b98047f9524e4a27730fb3c9abf150ff4b79dc7",
+          "sourceLayoutHash": "92227be3cb46caf74609815fe9d56093de3c9d1a5aec3c99020e54df1682fe19",
+          "status": "verified"
+        },
+        "book": 12,
+        "test": "6",
+        "id": "cambridge-12-test-6-academic-pages",
+        "title": "剑雅 12 · Test 6",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-12-test-6-academic-pages-a15c9f70e893.zip",
+      "sha256": "672be1d1eb71db15560b8df04016e0612e30f860c7408bfb3a20fe69dd36c82e",
+      "bytes": 42926430,
+      "unpackedBytes": 52628139,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-12-test-6-academic-pages-a15c9f70e893.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "2104fd68eff46b5822123b00ba192988cff8f72d76bce15c9b431c9e79ac199d",
+          "sourceLayoutHash": "f02da6ab3d5b85d8ed8c30e88eaa37ed95d48a10b62f66e27c23fd3a201ba8a7",
+          "status": "verified"
+        },
+        "book": 12,
+        "test": "7",
+        "id": "cambridge-12-test-7-academic-pages",
+        "title": "剑雅 12 · Test 7",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-12-test-7-academic-pages-875bb8c8ece2.zip",
+      "sha256": "72c1ca26c0062aef341f36d91bdb0abd2f5a60f6330f7e3decf922572edf3a95",
+      "bytes": 43213222,
+      "unpackedBytes": 53080739,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-12-test-7-academic-pages-875bb8c8ece2.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "a0faf827f1ce5f823014b9279c45fcc710044f6c1aee17be82e515ce3996953c",
+          "sourceLayoutHash": "0635b92577b2220619a4feea0cab11b67ba75ea871753ea8760acc2d56d53f92",
+          "status": "verified"
+        },
+        "book": 12,
+        "test": "8",
+        "id": "cambridge-12-test-8-academic-pages",
+        "title": "剑雅 12 · Test 8",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-12-test-8-academic-pages-84b1cc8c98ea.zip",
+      "sha256": "b53ccb7abeee49b7b70f56bd0535317bc02059c5d7dbc8a0626297eb6dbdd725",
+      "bytes": 38305827,
+      "unpackedBytes": 48492933,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-12-test-8-academic-pages-84b1cc8c98ea.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "6bdc132bda1d6f8e7da4f067daf2a1a3beb1e4c4d5bda777ca69101aeda4dff9",
+          "sourceLayoutHash": "f50bf4d65ea57655ef80e70c5d550e473d90a8a7ce0f14e44ef8863ba1e355ab",
+          "status": "verified"
+        },
+        "book": 13,
+        "test": "1",
+        "id": "cambridge-13-test-1-academic-pages",
+        "title": "剑雅 13 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-13-test-1-academic-pages-4715453e6cdc.zip",
+      "sha256": "11fefd24064aa94dce768c29848e009a786c20ee06d0108bea6a555346fc42d9",
+      "bytes": 19503353,
+      "unpackedBytes": 26734792,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-13-test-1-academic-pages-4715453e6cdc.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "8e507b54a3f1e540a83a8a2c7001238ff57f9091ef5d29fd89b2e9a66595be83",
+          "sourceLayoutHash": "2e0c644fc7acd78f55362f3b4467e75c7705befd3afe8e8eda9cd4eddb654f97",
+          "status": "verified"
+        },
+        "book": 13,
+        "test": "2",
+        "id": "cambridge-13-test-2-academic-pages",
+        "title": "剑雅 13 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-13-test-2-academic-pages-31e5410cf4ed.zip",
+      "sha256": "90affe372f65ad3a5a0046d83b9e49a47a1c1720c45add227e6a6ae738ec7908",
+      "bytes": 22469251,
+      "unpackedBytes": 29531928,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-13-test-2-academic-pages-31e5410cf4ed.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "cc1694e20e11ce29b6cc618be03e689fb0b65ff336ee71adb92cc9435941cdff",
+          "sourceLayoutHash": "b2ba25d50bf40cabff5c04d2da49c2880863e2c1a50de54057714e1ec4edfdc7",
+          "status": "verified"
+        },
+        "book": 13,
+        "test": "3",
+        "id": "cambridge-13-test-3-academic-pages",
+        "title": "剑雅 13 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-13-test-3-academic-pages-3812386209be.zip",
+      "sha256": "96202c2a0245ec4aab0bf251b58f9adfb429bd59d3de5d59394179de2014f3f2",
+      "bytes": 19863976,
+      "unpackedBytes": 26812844,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-13-test-3-academic-pages-3812386209be.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "67923c44eda34d6c8603430da4234dce7a45ae573cb53e53c61a9334c521afab",
+          "sourceLayoutHash": "fd173761b18270ed730af541d1e4eecdc0502753c7a401bc3eaf0f3cba23ffd3",
+          "status": "verified"
+        },
+        "book": 13,
+        "test": "4",
+        "id": "cambridge-13-test-4-academic-pages",
+        "title": "剑雅 13 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-13-test-4-academic-pages-70e9d02cdde3.zip",
+      "sha256": "6859153a18b0e99cbe0c9fe671eb892a18a3848b37b45f1001856fb44063fd3a",
+      "bytes": 20714114,
+      "unpackedBytes": 27771025,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-13-test-4-academic-pages-70e9d02cdde3.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "faee80d36d658192fcc2f2f7dc5f95aaea9b240968beb862b2ab193b1530cb2c",
+          "sourceLayoutHash": "a306edf93fac86b42a4718fbb32a7ed0a779b1752f6bf3b5f88bcc6e0a89360f",
+          "status": "verified"
+        },
+        "book": 14,
+        "test": "1",
+        "id": "cambridge-14-test-1-academic-pages",
+        "title": "剑雅 14 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-14-test-1-academic-pages-8cc13dd41812.zip",
+      "sha256": "a5a23c7427530b6413604aecaaa3716391116f403abd87e5b6592fc1efa97a7e",
+      "bytes": 30771669,
+      "unpackedBytes": 32228146,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-14-test-1-academic-pages-8cc13dd41812.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "31077f6980c6e4da8f0c68b926999c5c45032fb345f5208d69f655474d14c7e7",
+          "sourceLayoutHash": "5143a8596e89b727f10ee9ceb681ef8760b48f5830440ea9e2904aca4bcaa09e",
+          "status": "verified"
+        },
+        "book": 14,
+        "test": "2",
+        "id": "cambridge-14-test-2-academic-pages",
+        "title": "剑雅 14 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。 Part 4 音频时长异常，请核对。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-14-test-2-academic-pages-09f2a2f616f4.zip",
+      "sha256": "25650bce143feee52c6ff73c82687371cf52806c112d4fb9a653c08fdb2a6400",
+      "bytes": 41832059,
+      "unpackedBytes": 43636051,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-14-test-2-academic-pages-09f2a2f616f4.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "35d4180d76888e3a81e5e64cf2ea2f369343a0fc607c4edeedea31d6a815196d",
+          "sourceLayoutHash": "a8923064c7a15718354a0f6b51de4fbd888e2d4aaa9aec7961f57b90eba52d65",
+          "status": "verified"
+        },
+        "book": 14,
+        "test": "3",
+        "id": "cambridge-14-test-3-academic-pages",
+        "title": "剑雅 14 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-14-test-3-academic-pages-70313f4cfb45.zip",
+      "sha256": "249ce4064ae2b30cbf3d255e544b95ecf70b28ebfb3a2544624bd1d42af05c72",
+      "bytes": 32114030,
+      "unpackedBytes": 33575062,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-14-test-3-academic-pages-70313f4cfb45.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "ce73725a643f21f2807d30899634133c374fbda267bcb55c3806e484b51f98f1",
+          "sourceLayoutHash": "57c3ab65c5afeea4eb86c41a79021dbfaf7a62e2117e78c871715a9312f6f0b4",
+          "status": "verified"
+        },
+        "book": 14,
+        "test": "4",
+        "id": "cambridge-14-test-4-academic-pages",
+        "title": "剑雅 14 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-14-test-4-academic-pages-f8183af5a9ab.zip",
+      "sha256": "76ba65a32cb95e0249ab0659c02cfe343e6035f23fbf4a08b724bd3fa0b957fc",
+      "bytes": 34368508,
+      "unpackedBytes": 35900838,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-14-test-4-academic-pages-f8183af5a9ab.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "1ab52195819452b85322e8c77fc08f20300d63786755d39755df945edb962334",
+          "sourceLayoutHash": "fa1e71fb281895a3eadffb804e38a3e2eacd3a468331fc01af5ae067df55e00d",
+          "status": "verified"
+        },
+        "book": 15,
+        "test": "1",
+        "id": "cambridge-15-test-1-academic-pages",
+        "title": "剑雅 15 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-15-test-1-academic-pages-3a6b98ade1fe.zip",
+      "sha256": "115670318d7944118bc9403616c8b96cbfdb49640466aa06d3fcf2942a7c28aa",
+      "bytes": 30405397,
+      "unpackedBytes": 31605891,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-15-test-1-academic-pages-3a6b98ade1fe.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "1ea4d0f992f17b9598c2a2ebbfeebcbf0958e4f91eab29b75c35766a26355844",
+          "sourceLayoutHash": "db0f1386c663b6efcdfa75962807e6533e24654e2305984128f5eedc0452eb26",
+          "status": "verified"
+        },
+        "book": 15,
+        "test": "2",
+        "id": "cambridge-15-test-2-academic-pages",
+        "title": "剑雅 15 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-15-test-2-academic-pages-2df2b2ca7586.zip",
+      "sha256": "068068d2c2793d331f5d5ff9d905d3e85a85271679ad7410547b5a6a95e42533",
+      "bytes": 30221160,
+      "unpackedBytes": 31422642,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-15-test-2-academic-pages-2df2b2ca7586.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "6b85fcdf849d366cf9ddf3eeeeb3e865303f1796c964b4297cef5024331d149e",
+          "sourceLayoutHash": "6ebbd3cfbdbbaff6d74148e86fbb675fd2367dc81eb47c36798687435180a942",
+          "status": "verified"
+        },
+        "book": 15,
+        "test": "3",
+        "id": "cambridge-15-test-3-academic-pages",
+        "title": "剑雅 15 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-15-test-3-academic-pages-dcf7b8985b86.zip",
+      "sha256": "7444ab2056102f2f452ca7e7d227ed6017f1afb9bfe72012f2bd4b8a1edf5307",
+      "bytes": 28371825,
+      "unpackedBytes": 29538703,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-15-test-3-academic-pages-dcf7b8985b86.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "7f7d36d765a8361b0fe82319bbc6ff4d4283f636595c4351bba6821958a6cb1a",
+          "sourceLayoutHash": "15d7aba555704dc80cbbc33277741e667d5aaa9db9bcf8cb27d58abadd895d3b",
+          "status": "verified",
+          "notices": [
+            "Academic Reading: PDF page 88 full: C15T4 reading Q27–31 instructions print A–J, but the original list contains only A–I; no J option is supplied. All actual answers are in A–I."
+          ]
+        },
+        "book": 15,
+        "test": "4",
+        "id": "cambridge-15-test-4-academic-pages",
+        "title": "剑雅 15 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-15-test-4-academic-pages-45205bb0465a.zip",
+      "sha256": "a2aba1e97ce41cc8899fcec4ff83832f974d8899acbed76801f110bcf0963c30",
+      "bytes": 27950612,
+      "unpackedBytes": 29098542,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-15-test-4-academic-pages-45205bb0465a.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "a3140270b82d9961e81d32a758d39fe1fba3ce1a641a88f9c86c63bee3da7144",
+          "sourceLayoutHash": "83358a03a02c870b41abd3ac3a634208b386f5780ed9c40a9d0b56e6e72d1929",
+          "status": "verified"
+        },
+        "book": 16,
+        "test": "1",
+        "id": "cambridge-16-test-1-academic-pages",
+        "title": "剑雅 16 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-16-test-1-academic-pages-e43a84d16086.zip",
+      "sha256": "54c21e664e07194a263ced514e51fc68670cf46fc1c6a4eede464bd0cbbced89",
+      "bytes": 50795921,
+      "unpackedBytes": 60887963,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-16-test-1-academic-pages-e43a84d16086.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "c2aaf8bd5eb48b132967b331123bf82681f098ed424dee657d470e08613d7745",
+          "sourceLayoutHash": "492769c989c496aa952d29c2a11e3e37ceb16eca01047895fc83ede645a4a8a0",
+          "status": "verified"
+        },
+        "book": 16,
+        "test": "2",
+        "id": "cambridge-16-test-2-academic-pages",
+        "title": "剑雅 16 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-16-test-2-academic-pages-24fc610efb42.zip",
+      "sha256": "8832c88f6e0aa738f7d193a20f15b4db55abc477bf7401c9a3df7a209f890f81",
+      "bytes": 52831487,
+      "unpackedBytes": 62990860,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-16-test-2-academic-pages-24fc610efb42.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "0e8752e155cf267752d0823314f3df269640f0ec3f522b28011f2538327801a2",
+          "sourceLayoutHash": "5526f781f302016c5e2fe1075e52eebc0ed33b0577bcef2dc037df1b93accc92",
+          "status": "verified"
+        },
+        "book": 16,
+        "test": "3",
+        "id": "cambridge-16-test-3-academic-pages",
+        "title": "剑雅 16 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-16-test-3-academic-pages-7ba4aa1b912b.zip",
+      "sha256": "c0b45f890e7310b84407d55f2a20f1c3a8fd401e685af846fc6439440f95af0c",
+      "bytes": 52838528,
+      "unpackedBytes": 63549588,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-16-test-3-academic-pages-7ba4aa1b912b.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "eeed1441368224b4e029dc895b891468c80c1ec48b7e0f58a691c6e8c50431df",
+          "sourceLayoutHash": "3a772b98de65cd0908a171c3b5a3440f57e3ab81fbeac0c6ab8aa97ebdd43f75",
+          "status": "verified"
+        },
+        "book": 16,
+        "test": "4",
+        "id": "cambridge-16-test-4-academic-pages",
+        "title": "剑雅 16 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-16-test-4-academic-pages-4518cf5977ba.zip",
+      "sha256": "8898725dab1eddda9c10c8925ed9812538fddf0dfb90f8fe4b2e0989b8c0a980",
+      "bytes": 51295811,
+      "unpackedBytes": 61964858,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-16-test-4-academic-pages-4518cf5977ba.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "032065e8398944b7689582dd5e2a6db5653e673acabadee0816c19f463cec11f",
+          "sourceLayoutHash": "7688a5a7c346932f79dc7d2e501c124eebaee6766a69468b483249a33a044bd0",
+          "status": "verified"
+        },
+        "book": 17,
+        "test": "1",
+        "id": "cambridge-17-test-1-academic-pages",
+        "title": "剑雅 17 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-17-test-1-academic-pages-5d34977f027c.zip",
+      "sha256": "65f6d236c2b0aeb66488e29e71961e8b64c9e72e16f2d824c295e26d3b42b46f",
+      "bytes": 31176900,
+      "unpackedBytes": 33280836,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-17-test-1-academic-pages-5d34977f027c.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "70070458bcbf819435cda90c364d06577930db04a33bc3c4b0015e8f78b5cf44",
+          "sourceLayoutHash": "0d46f0b1a5b36d64a47417bf9f5c4d40efc52726666ade2ac7d553867d495bcd",
+          "status": "verified"
+        },
+        "book": 17,
+        "test": "2",
+        "id": "cambridge-17-test-2-academic-pages",
+        "title": "剑雅 17 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-17-test-2-academic-pages-ce0a815c5973.zip",
+      "sha256": "e17941789e2be1abfaa4dd29b627208e95adcc1d1c76fe3b99626a26c1119598",
+      "bytes": 31416175,
+      "unpackedBytes": 33627627,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-17-test-2-academic-pages-ce0a815c5973.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "b10af282a40ef55805b0441f09217d925aa57b9ecb709ca6cdff65ee43dcbacd",
+          "sourceLayoutHash": "2dcc628c12b323ce6870096c32a07b70c9663dae4391eb946704aa3461dc9e5f",
+          "status": "verified"
+        },
+        "book": 17,
+        "test": "3",
+        "id": "cambridge-17-test-3-academic-pages",
+        "title": "剑雅 17 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-17-test-3-academic-pages-a99a6fe6114a.zip",
+      "sha256": "90e3ea8858364ac96dda83f87f904d0837f3b39e24ebbde5d4faa9344bc240c0",
+      "bytes": 32103769,
+      "unpackedBytes": 34431235,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-17-test-3-academic-pages-a99a6fe6114a.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "dadc5631e95b0085849662bf5c82bd5f94bff6df7f43f4c345f11c7f4d2210d8",
+          "sourceLayoutHash": "fcfac3371434618fdcb11138ac8e02913343f31ca0cce767b5d5548af6dea8ef",
+          "status": "verified"
+        },
+        "book": 17,
+        "test": "4",
+        "id": "cambridge-17-test-4-academic-pages",
+        "title": "剑雅 17 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-17-test-4-academic-pages-7dfa5a70c161.zip",
+      "sha256": "f733609503d8c4cc54911aededd8d07d4879bc10eb0f3f3544aa9ec640ca9325",
+      "bytes": 31563009,
+      "unpackedBytes": 33971440,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-17-test-4-academic-pages-7dfa5a70c161.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "58d8562fbb8d48c81d02a97523b1933184ab87f3a5025245c89d063a5b1c5e02",
+          "sourceLayoutHash": "e07dece4d0dabf29b0bd45dc7595327f4c4af9d6149399e26ab4a4cf84c36daa",
+          "status": "verified"
+        },
+        "book": 18,
+        "test": "1",
+        "id": "cambridge-18-test-1-academic-pages",
+        "title": "剑雅 18 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-18-test-1-academic-pages-285619283199.zip",
+      "sha256": "c57f78bb9e38af7b7e860987b643a691c89040a7d838d28878c9c43b7213243e",
+      "bytes": 33167350,
+      "unpackedBytes": 34051385,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-18-test-1-academic-pages-285619283199.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "481e136764c9a0cc57748d4fff438fcd69c06f47742a1b216cfd0128d0e55745",
+          "sourceLayoutHash": "da11e076dcfdadb39160e92bb1eef6eaeff0fd76aa3144de7dc131ae0de70da5",
+          "status": "verified"
+        },
+        "book": 18,
+        "test": "2",
+        "id": "cambridge-18-test-2-academic-pages",
+        "title": "剑雅 18 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-18-test-2-academic-pages-bdfa6c971a5a.zip",
+      "sha256": "c14dda22eec4e9c37a878b073d4c614ef4cdcd1cfa0fd6caf093dc107ab60c29",
+      "bytes": 33815509,
+      "unpackedBytes": 34703160,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-18-test-2-academic-pages-bdfa6c971a5a.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "6e2d73e8fef14e281a66cf3429955e85f877f977be6cee10a43776cc0fa90bda",
+          "sourceLayoutHash": "0d7e8f63d3806ea527f2be65b7b232f71cacc8367ac638f0a3651bbd304e1c91",
+          "status": "verified"
+        },
+        "book": 18,
+        "test": "3",
+        "id": "cambridge-18-test-3-academic-pages",
+        "title": "剑雅 18 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-18-test-3-academic-pages-c75139eb47a8.zip",
+      "sha256": "efc053f2d4c09e9501726f9179ea0368f40cfa32a62e8b797cc59c8ef13f4f32",
+      "bytes": 33451302,
+      "unpackedBytes": 34362133,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-18-test-3-academic-pages-c75139eb47a8.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "5604557bc8cd9ef33335a12ab60df86101b6e05d7e42bf222de5016b0ce0b849",
+          "sourceLayoutHash": "e62163013ae7dd05c984de47f91cecfd9e4d95b90da7c3c984b07f6fe260eb0e",
+          "status": "verified"
+        },
+        "book": 18,
+        "test": "4",
+        "id": "cambridge-18-test-4-academic-pages",
+        "title": "剑雅 18 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-18-test-4-academic-pages-f7a72844e85c.zip",
+      "sha256": "e6b8b4da7ff6c5ac31db73594ddb4d37bb5bde1ede35d1b4c61e980214fc04e9",
+      "bytes": 33982103,
+      "unpackedBytes": 34846748,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-18-test-4-academic-pages-f7a72844e85c.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "c2ac2fe30b2c0a8028f482bb5e09aa2b1b55a703e9fd8d83e5bdbb852d54364a",
+          "sourceLayoutHash": "f25387f5c99a2e5f51017b28a5eecb9342b05e8e568daccb2bdd4c2bb8bdb19c",
+          "status": "verified",
+          "notices": [
+            "Part 1: source audio not supplied.",
+            "Part 2: source audio not supplied.",
+            "Part 3: source audio not supplied.",
+            "Part 4: source audio not supplied.",
+            "c2-t1-w-1: source writing information incomplete — The supplied original prints the 1972 central-heating value as 3?; its final digit cannot be verified. A cleaner source or explicit user correction is required before complete task scoring."
+          ]
+        },
+        "book": 2,
+        "test": "1",
+        "id": "cambridge-2-test-1-academic-pages",
+        "title": "剑雅 2 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 听力音频未提供",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。 该目录未提供本册听力音频。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 1
+          }
+        ]
+      },
+      "filename": "cambridge-2-test-1-academic-pages-2b53e4d4fd93.zip",
+      "sha256": "8f8a823d186e692e5538ab58d77848fc3c603781057cf8a853c5d051f80cc883",
+      "bytes": 4192527,
+      "unpackedBytes": 4968844,
+      "missingAudio": true,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-2-test-1-academic-pages-2b53e4d4fd93.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "ab7ff7cd3fb5f2a028fe12d76e85430265575a1377cde522571693b860e28f9d",
+          "sourceLayoutHash": "bcd8ca5901bdc7536a2a69f25a56b47b5ff766d30a149ee37bf9154fc59f5a76",
+          "status": "verified",
+          "notices": [
+            "Part 1: source audio not supplied.",
+            "Part 2: source audio not supplied.",
+            "Part 3: source audio not supplied.",
+            "Part 4: source question pages missing; answer slots retained.",
+            "Part 4: source audio not supplied.",
+            "Academic Reading: PDF page 17 R: The source hotel-article sentence ends after temporarily; missing continuation is not supplied."
+          ]
+        },
+        "book": 2,
+        "test": "2",
+        "id": "cambridge-2-test-2-academic-pages",
+        "title": "剑雅 2 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 听力音频未提供",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。 该目录未提供本册听力音频。 缺失：听力 Part 4 题页。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 1
+          }
+        ]
+      },
+      "filename": "cambridge-2-test-2-academic-pages-c0bdc2cece91.zip",
+      "sha256": "65372ae7bfb5723886f177fc6931dd1eeada8ed50e079a865e3e2ab7c56be09f",
+      "bytes": 3890662,
+      "unpackedBytes": 4599312,
+      "missingAudio": true,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-2-test-2-academic-pages-c0bdc2cece91.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "de2e94c30ef8d1a48fa76d166653e6ec6fb7003abac8e50bd0806235476a947a",
+          "sourceLayoutHash": "032b79a09418fa74c7affa4a14b54b74caa6fe2b5f6cce63f0217f48bc8b8559",
+          "status": "verified",
+          "notices": [
+            "Part 1: source audio not supplied.",
+            "Part 2: source audio not supplied.",
+            "Part 3: source audio not supplied.",
+            "Part 4: source audio not supplied.",
+            "Academic Reading: PDF page 29 R: The original Strategy3 heading ends with and, and the original contains truncated Registered an / loca wording; no continuation is invented."
+          ]
+        },
+        "book": 2,
+        "test": "3",
+        "id": "cambridge-2-test-3-academic-pages",
+        "title": "剑雅 2 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 听力音频未提供",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。 该目录未提供本册听力音频。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 1
+          }
+        ]
+      },
+      "filename": "cambridge-2-test-3-academic-pages-dfbf470afb24.zip",
+      "sha256": "406a89855d8cca988215cd28e3108c466cf7cdfa21a003c24f68d091b9873808",
+      "bytes": 3920604,
+      "unpackedBytes": 4634921,
+      "missingAudio": true,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-2-test-3-academic-pages-dfbf470afb24.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "51d85f7dad7f4ec2208d44a0df6377fc0e6bd57e4071627f8558cf9a7af7f528",
+          "sourceLayoutHash": "0fd52c522da9efcd8c6e2475268041af66ae259a88b1e33f732b7858ef44918b",
+          "status": "verified",
+          "notices": [
+            "Part 1: source audio not supplied.",
+            "Part 2: source audio not supplied.",
+            "Part 3: source audio not supplied.",
+            "Part 4: source audio not supplied.",
+            "Academic Reading: PDF page 42 R: Reading Q16 options A–D and Q17 stem have truncated right ends in the original PDF; visible fragments are preserved without guessed completions."
+          ]
+        },
+        "book": 2,
+        "test": "4",
+        "id": "cambridge-2-test-4-academic-pages",
+        "title": "剑雅 2 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 听力音频未提供",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。 该目录未提供本册听力音频。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 1
+          }
+        ]
+      },
+      "filename": "cambridge-2-test-4-academic-pages-4241ab513e04.zip",
+      "sha256": "f102a660ff25d1fae7ede76676c318c6936d42cc5857d325e5c3450a8e899832",
+      "bytes": 4426888,
+      "unpackedBytes": 5144253,
+      "missingAudio": true,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-2-test-4-academic-pages-4241ab513e04.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "b37948bf290233dff02836e8f54af1242f6433ea26b188ed118eec70af85f0b8",
+          "sourceLayoutHash": "f0e2bbaef2c964547c647d445161100f6e36955c521d0d224201392f14648419",
+          "status": "verified",
+          "notices": [
+            "Part 1: source audio not supplied.",
+            "Part 2: source audio not supplied.",
+            "Part 3: source audio not supplied.",
+            "Part 4: source audio not supplied."
+          ]
+        },
+        "book": 3,
+        "test": "1",
+        "id": "cambridge-3-test-1-academic-pages",
+        "title": "剑雅 3 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 听力音频未提供",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。 该目录未提供本册听力音频。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-3-test-1-academic-pages-7d186c8ec8c9.zip",
+      "sha256": "cb156921b1987306af0fa60d9b5d77012e122398fc6c2e54cb1bf1ca97f43c04",
+      "bytes": 3913282,
+      "unpackedBytes": 4698792,
+      "missingAudio": true,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-3-test-1-academic-pages-7d186c8ec8c9.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "415d8f2fa33cd8a8edb3b063537fc393799482a351694a6ebf7b5d678693cd43",
+          "sourceLayoutHash": "d12f246482b4745e073ee4a20563a279149979c710d4ae55cdd1a24f20d6a126",
+          "status": "verified",
+          "notices": [
+            "Part 1: source audio not supplied.",
+            "Part 2: source audio not supplied.",
+            "Part 3: source audio not supplied.",
+            "Part 4: source audio not supplied."
+          ]
+        },
+        "book": 3,
+        "test": "2",
+        "id": "cambridge-3-test-2-academic-pages",
+        "title": "剑雅 3 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 听力音频未提供",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。 该目录未提供本册听力音频。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-3-test-2-academic-pages-aca9d3d19a8d.zip",
+      "sha256": "eed97fb8d9b228c1b892c4c3a25bb0171ecfa008b3e9dc4fc138d72e5e0e2958",
+      "bytes": 4167597,
+      "unpackedBytes": 4985530,
+      "missingAudio": true,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-3-test-2-academic-pages-aca9d3d19a8d.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "2115155d6cbe23de2085cb057ddec4a0eeb80b559d85ee78b21452c486c0343a",
+          "sourceLayoutHash": "aeb0a0266cf3338ca18c7c98bacc8626cf1eb6163ccf7a1f6c61fa11acc97a98",
+          "status": "verified",
+          "notices": [
+            "Part 1: source audio not supplied.",
+            "Part 2: source audio not supplied.",
+            "Part 3: source audio not supplied.",
+            "Part 4: source audio not supplied."
+          ]
+        },
+        "book": 3,
+        "test": "3",
+        "id": "cambridge-3-test-3-academic-pages",
+        "title": "剑雅 3 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 听力音频未提供",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。 该目录未提供本册听力音频。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-3-test-3-academic-pages-ff89fc6cd1bd.zip",
+      "sha256": "7e47a4d2b599b9a151a05859dd6c582fe3a26f7bbf53ce7dab6ea99cd9cc7035",
+      "bytes": 4053444,
+      "unpackedBytes": 4800297,
+      "missingAudio": true,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-3-test-3-academic-pages-ff89fc6cd1bd.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "bdc0b5add9a21d2fcce60cce475b48e66a0053ffc23ff0b53318c7a61392b587",
+          "sourceLayoutHash": "ca833ec742ed2978d8a6e4b47455fa68211e8f5e412b65c65a689f7c87e54949",
+          "status": "verified",
+          "notices": [
+            "Part 1: source audio not supplied.",
+            "Part 2: source audio not supplied.",
+            "Part 3: source audio not supplied.",
+            "Part 4: source audio not supplied."
+          ]
+        },
+        "book": 3,
+        "test": "4",
+        "id": "cambridge-3-test-4-academic-pages",
+        "title": "剑雅 3 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 听力音频未提供",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。 该目录未提供本册听力音频。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-3-test-4-academic-pages-3917f24d5f9e.zip",
+      "sha256": "10703ff845dd57cbccbc6b1bba6888410ebf8714ee86857bbf21396b59ca30d2",
+      "bytes": 3942621,
+      "unpackedBytes": 4754931,
+      "missingAudio": true,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-3-test-4-academic-pages-3917f24d5f9e.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "55e94a6dcbff2bc44385ec9ed64eb8df5031a0ecdb447d9eee4cd03cbdd09f2d",
+          "sourceLayoutHash": "7435dfa62603f29eff8944b4b4e8297634b7723cc7ded9b1cf6e6a1a62d47fed",
+          "status": "verified"
+        },
+        "book": 4,
+        "test": "1",
+        "id": "cambridge-4-test-1-academic-pages",
+        "title": "剑雅 4 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-4-test-1-academic-pages-7fc171782c4d.zip",
+      "sha256": "b90f2e656052b4bcb57cde197fc7e930539ce2e85614d4d98d4c79f87f7b1f54",
+      "bytes": 24214617,
+      "unpackedBytes": 32283685,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-4-test-1-academic-pages-7fc171782c4d.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "a9255b846152fece8f9920ff2d70ecf4e187b974973cce86662853d1f24bab33",
+          "sourceLayoutHash": "cb127c66f42c6f1e3ac61a84f8de7eea8c131dc1d53cfe784b5c42427e245295",
+          "status": "verified"
+        },
+        "book": 4,
+        "test": "2",
+        "id": "cambridge-4-test-2-academic-pages",
+        "title": "剑雅 4 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-4-test-2-academic-pages-27fffaf54de5.zip",
+      "sha256": "1368a01263b19e492f07c3e1db9e56a3b473734164b885d462e3c82a59d0d017",
+      "bytes": 24028520,
+      "unpackedBytes": 31969391,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-4-test-2-academic-pages-27fffaf54de5.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "1cb2940c8ef275e5a4bf67d1b0e24dd91a7960ca351fa501bb20f0b75d7dc6d4",
+          "sourceLayoutHash": "8eb95c75fdacee3784dedcfe286f1e2e9d3dab511d8893f14eefb4a1d1453960",
+          "status": "verified"
+        },
+        "book": 4,
+        "test": "3",
+        "id": "cambridge-4-test-3-academic-pages",
+        "title": "剑雅 4 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-4-test-3-academic-pages-0e205be42e76.zip",
+      "sha256": "c47ba2cad00c72c8e2b7762f8e9ad6f96820b7bbe6d764eeee21bda4db7b83e0",
+      "bytes": 23113388,
+      "unpackedBytes": 31172904,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-4-test-3-academic-pages-0e205be42e76.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "88aaee46ac10c25685b43448cc7a38c672d0fc1ab4e0b32088ee4b4948744614",
+          "sourceLayoutHash": "c58ba1555d2921be9f035faf633813d606aebd815cddf8589a0c276f9a2fff47",
+          "status": "verified"
+        },
+        "book": 4,
+        "test": "4",
+        "id": "cambridge-4-test-4-academic-pages",
+        "title": "剑雅 4 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-4-test-4-academic-pages-42ea37aec697.zip",
+      "sha256": "e0dc9ce5e3a726d2ff3f54cccbbb06500269c6058619beb9521832ac3b510f00",
+      "bytes": 24700850,
+      "unpackedBytes": 32903589,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-4-test-4-academic-pages-42ea37aec697.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "71c169c9ebb09590225f0d16264f741a2436f11bcf9f8120488419aba99fcb53",
+          "sourceLayoutHash": "6d81d5663d0665c9b65fc5cd01f9e4905ecaa8861ff25b2e80f16b27bb50784f",
+          "status": "verified"
+        },
+        "id": "cambridge-5-test-1-academic-local",
+        "title": "剑雅 5 · Test 1",
+        "subtitle": "Academic · 本机缓存恢复",
+        "category": "academic",
+        "source": "imported",
+        "description": "从本机雅思哥缓存恢复：听力40题与四段MP3、阅读40题、写作2题及Task 1图表。未恢复口语试题；不是全套剑雅题库。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "Listening",
+            "durationSeconds": 1619,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "Academic Reading",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "Academic Writing",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          }
+        ]
+      },
+      "filename": "cambridge-5-test-1-academic-local-c5ba06504e72.zip",
+      "sha256": "64b688c758d95c6693f2897e21a1846c987706d21d658c5881876987dd512859",
+      "bytes": 23008058,
+      "unpackedBytes": 24056548,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-5-test-1-academic-local-c5ba06504e72.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "9cce99fda09f8695e5abe5c98f0eb69dc561bd30f0a4fdc262bcc892b17481ef",
+          "sourceLayoutHash": "427eae7c61e2d8608153a6bb3e05da3636b7a864e7a570178c3bc3d13ba1ade5",
+          "status": "verified"
+        },
+        "book": 5,
+        "test": "1",
+        "id": "cambridge-5-test-1-academic-pages",
+        "title": "剑雅 5 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-5-test-1-academic-pages-45847e24a804.zip",
+      "sha256": "81b73552295d0c2cae38e6f82d1f177f14f99c1e7b04bf77406020bb98a36dea",
+      "bytes": 10666933,
+      "unpackedBytes": 12179144,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-5-test-1-academic-pages-45847e24a804.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "9807980b5e257da21f3c05ef9938bc7132e19b976616931b6cc765f2af06150a",
+          "sourceLayoutHash": "d67987398f4ebf934614b26edf550bd61f2964187db63dcb2d843b59dfaf64af",
+          "status": "verified"
+        },
+        "book": 5,
+        "test": "2",
+        "id": "cambridge-5-test-2-academic-pages",
+        "title": "剑雅 5 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-5-test-2-academic-pages-d668c88a8cab.zip",
+      "sha256": "90e801c16e8d28a904b3df71e15696182f03bc45ecc49b31b59b137af0ba4b05",
+      "bytes": 11709549,
+      "unpackedBytes": 13353438,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-5-test-2-academic-pages-d668c88a8cab.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "c8ed4284373d2c8ae762443d58a511ce16861b35da65a37f51ed106d40640360",
+          "sourceLayoutHash": "38aefbb0317a2c440ee60a475a71007acc1a8cc3c68e38fe5765bd9fb5e93b2a",
+          "status": "verified"
+        },
+        "book": 5,
+        "test": "3",
+        "id": "cambridge-5-test-3-academic-pages",
+        "title": "剑雅 5 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-5-test-3-academic-pages-de60839eb8cb.zip",
+      "sha256": "0b9edf0954bbb6931641a4fefd716457041f9333e362da0b554d112eb8288c46",
+      "bytes": 11665367,
+      "unpackedBytes": 13323376,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-5-test-3-academic-pages-de60839eb8cb.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "2ff5daa34286cad5e012be14c6d4592ea5a1974fe7e905ee2a520313b363dfb1",
+          "sourceLayoutHash": "89bb0f11053c5a70035f50a08adb1457415ea253b763b9a5b687beeaa68a0245",
+          "status": "verified"
+        },
+        "book": 5,
+        "test": "4",
+        "id": "cambridge-5-test-4-academic-pages",
+        "title": "剑雅 5 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-5-test-4-academic-pages-99c1f468abec.zip",
+      "sha256": "d7a8a7999380008c03be15aa874b638416c52dad032e70c1c37133cf7bbbcc97",
+      "bytes": 10785542,
+      "unpackedBytes": 12310369,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-5-test-4-academic-pages-99c1f468abec.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "347ae19227c762e81541ab0c3743becdbc7d4b03ab8a7dc3372d5fec181c53da",
+          "sourceLayoutHash": "1306ffe96c3dc86a2228643478eb87b28407100d5dabc67d29399d7fa453f286",
+          "status": "verified"
+        },
+        "book": 6,
+        "test": "1",
+        "id": "cambridge-6-test-1-academic-pages",
+        "title": "剑雅 6 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-6-test-1-academic-pages-864f2f34c857.zip",
+      "sha256": "4ed367c1114b6bef5c1a40589d5cfdf01e9ad32ec963949e26a57e346a9750b9",
+      "bytes": 10480718,
+      "unpackedBytes": 11605365,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-6-test-1-academic-pages-864f2f34c857.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "98daaca0a45015183d82591dd063fcc70d5a6ddeb8d3a42d56e490a09ed3583e",
+          "sourceLayoutHash": "8367434885e458d749711f56ff6b3126f49ab32a9a2f9963f6336c2fb28978fb",
+          "status": "verified"
+        },
+        "book": 6,
+        "test": "2",
+        "id": "cambridge-6-test-2-academic-pages",
+        "title": "剑雅 6 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-6-test-2-academic-pages-a4a92767c6a1.zip",
+      "sha256": "ecf48a492fd57a5c1b595b09b2d9248d4f64e7b63105feac8c408bfc406ea182",
+      "bytes": 10732766,
+      "unpackedBytes": 11903610,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-6-test-2-academic-pages-a4a92767c6a1.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "9729d8b8b832f2553e33ac656e0faa7281e28c63e54a52fa587bf9cb60e4d35d",
+          "sourceLayoutHash": "60af97260473d5263c0064795e5b4be632820c8855e3309a073c9ca6033eca62",
+          "status": "verified"
+        },
+        "book": 6,
+        "test": "3",
+        "id": "cambridge-6-test-3-academic-pages",
+        "title": "剑雅 6 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-6-test-3-academic-pages-b94f5d7c1cdd.zip",
+      "sha256": "31b69fc30ecfa39d14800f55a43a2ea7eb0ceb1acaafe3aa09c3ef74c2b41af2",
+      "bytes": 10940503,
+      "unpackedBytes": 12212741,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-6-test-3-academic-pages-b94f5d7c1cdd.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "8d6a9f6f4d14f938f7464c8d75091ea4304872aab255482bb720b639e383ade1",
+          "sourceLayoutHash": "50d25f9fa3367a4e5e68f463e625a17dc9314b2c5c58ce450ae0dd401f94a294",
+          "status": "verified"
+        },
+        "book": 6,
+        "test": "4",
+        "id": "cambridge-6-test-4-academic-pages",
+        "title": "剑雅 6 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-6-test-4-academic-pages-b94653844a75.zip",
+      "sha256": "da4d862c6479f5837e024ac4a96e915814d85dec8b74edd4ecd9483e2da6463e",
+      "bytes": 10607645,
+      "unpackedBytes": 11772838,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-6-test-4-academic-pages-b94653844a75.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "25fd31db022c189f35f6b18a26a280fa4703a9c64b801d9c909831e3bfb6fc18",
+          "sourceLayoutHash": "f61f92e6503e31042710509fdd9cad0fb3e824ba34ffb4399e1d602ecb791cdd",
+          "status": "verified"
+        },
+        "book": 7,
+        "test": "1",
+        "id": "cambridge-7-test-1-academic-pages",
+        "title": "剑雅 7 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-7-test-1-academic-pages-c120a245d996.zip",
+      "sha256": "49df3c1370cfabe6bf31115dff61038d0d6acd2e1f3a5ae0d70bced2b81f993c",
+      "bytes": 29972184,
+      "unpackedBytes": 35053621,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-7-test-1-academic-pages-c120a245d996.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "95f56ccc6cefca00077842feb3c775d1a913a44bce8ad36e9c3ed29564bdacd5",
+          "sourceLayoutHash": "503929fa57c635487f39177f43ba2b6315c3f70155266b990081fa6910f9667d",
+          "status": "verified"
+        },
+        "book": 7,
+        "test": "2",
+        "id": "cambridge-7-test-2-academic-pages",
+        "title": "剑雅 7 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-7-test-2-academic-pages-fbbce485fb10.zip",
+      "sha256": "0c3bb48f65e2655b6de955a14c8e64272fd9286691b6021c7757f692e107b14e",
+      "bytes": 26862786,
+      "unpackedBytes": 31936517,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-7-test-2-academic-pages-fbbce485fb10.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "cb73d38b5c7da2665b00d9a62445ff7d59f3088b867b895938026fd4a5a989f7",
+          "sourceLayoutHash": "47c8dd79ea0ba26705755903867eaadf04758e9a51f99b049ec12cf70416a22b",
+          "status": "verified"
+        },
+        "book": 7,
+        "test": "3",
+        "id": "cambridge-7-test-3-academic-pages",
+        "title": "剑雅 7 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-7-test-3-academic-pages-75e1fd415d7a.zip",
+      "sha256": "2c944fef6650062548b3be9abc684e78d1b80647d353ddf482758bb28f57a667",
+      "bytes": 27537872,
+      "unpackedBytes": 32285734,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-7-test-3-academic-pages-75e1fd415d7a.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "4a5bc6caae601f62148c7719451e655ee4dfb54565c00f332cdbec2d099b489e",
+          "sourceLayoutHash": "c9f8588aa2469f009d84ba2a3306db11ff722cdee9b6bbedbe90af315252a9f8",
+          "status": "verified"
+        },
+        "book": 7,
+        "test": "4",
+        "id": "cambridge-7-test-4-academic-pages",
+        "title": "剑雅 7 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-7-test-4-academic-pages-f19db45cab31.zip",
+      "sha256": "e0023ee249fc8d0338e2013d811941330a16c7d4b5e33b8319933f22f8ec91b1",
+      "bytes": 24868597,
+      "unpackedBytes": 29378413,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-7-test-4-academic-pages-f19db45cab31.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "a17b69d69041f18df413580e89d1f7813bd501efafa823e1ac3b26f5f8c24abf",
+          "sourceLayoutHash": "d9bea9f9ba666edb2045d6276a16668ed47467766386a6de23a54f3cc0daddee",
+          "status": "verified"
+        },
+        "book": 8,
+        "test": "1",
+        "id": "cambridge-8-test-1-academic-pages",
+        "title": "剑雅 8 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-8-test-1-academic-pages-350cabcb1e36.zip",
+      "sha256": "7ef5a74cd2460078a9c861d55e843c2d29e161779367f710423c0c2f5e5e209a",
+      "bytes": 18017710,
+      "unpackedBytes": 19465574,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-8-test-1-academic-pages-350cabcb1e36.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "242457ee21bef57cc7dcdbb63e54b10ca391ec6502a7344127e40cec040c081e",
+          "sourceLayoutHash": "4270be663fd287312cedae8674f4b5043b059922710095c4d60be9479940c380",
+          "status": "verified"
+        },
+        "book": 8,
+        "test": "2",
+        "id": "cambridge-8-test-2-academic-pages",
+        "title": "剑雅 8 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-8-test-2-academic-pages-d29ae336d9a7.zip",
+      "sha256": "a8f7bf8d602423f29054a3f3ca4a3c43e9baa7819c67d64dcefc00b6a17902db",
+      "bytes": 18036106,
+      "unpackedBytes": 19321963,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-8-test-2-academic-pages-d29ae336d9a7.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "e5f4c088c4397f293b80a4125d7b696d597c5c48d819738176d564a7a350a6ce",
+          "sourceLayoutHash": "634ffad6020015a3a959004c6a9909b9e6ce06f4adf64620370df842fed5aa89",
+          "status": "verified"
+        },
+        "book": 8,
+        "test": "3",
+        "id": "cambridge-8-test-3-academic-pages",
+        "title": "剑雅 8 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-8-test-3-academic-pages-cdf00ad82682.zip",
+      "sha256": "bbad5fac8cd3a79b285674dfb3dcda889c4a7c91f0bf13bf191c38197700e87c",
+      "bytes": 17973742,
+      "unpackedBytes": 19520674,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-8-test-3-academic-pages-cdf00ad82682.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "28dd00336da381dff7e6ffebec1960c11a64f686efaf31cb864a5f19d0af31ad",
+          "sourceLayoutHash": "6328abdef47725876a608fc6163e9be1ac14c55bcd5e5d4150cae63b9e32ae33",
+          "status": "verified"
+        },
+        "book": 8,
+        "test": "4",
+        "id": "cambridge-8-test-4-academic-pages",
+        "title": "剑雅 8 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-8-test-4-academic-pages-1042827429ba.zip",
+      "sha256": "a14b20e66cedab8e7ba5326d0584c26cd4675e36e9ad05d84a69aa9656e4e2fc",
+      "bytes": 16582533,
+      "unpackedBytes": 18032212,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-8-test-4-academic-pages-1042827429ba.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "e6e338024f385dfc7c9a0f9ab42e3a866083c106d0428d5ba7095df7c1fa5b85",
+          "sourceLayoutHash": "495e0c70fc88d78a69326914c31c1be420fc4b24c6cbf2f1f0329670801f2e49",
+          "status": "verified"
+        },
+        "book": 9,
+        "test": "1",
+        "id": "cambridge-9-test-1-academic-pages",
+        "title": "剑雅 9 · Test 1",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-9-test-1-academic-pages-cca12fc27f2a.zip",
+      "sha256": "9e28a71555dde850acbb8577c908971e90d2e798713f325dc5d7b1a805572283",
+      "bytes": 56407566,
+      "unpackedBytes": 72934641,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-9-test-1-academic-pages-cca12fc27f2a.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "0bc4a28a5de900ae357f538c60ddb061fd9428e812c70de1847780e092ed2d5d",
+          "sourceLayoutHash": "11d737620092746cfb2d427f11ad29c51aa9b2b6250edb522d747faf4dce8d35",
+          "status": "verified"
+        },
+        "book": 9,
+        "test": "2",
+        "id": "cambridge-9-test-2-academic-pages",
+        "title": "剑雅 9 · Test 2",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-9-test-2-academic-pages-017acce627e3.zip",
+      "sha256": "8da73fbf83b97c8ab6d5362b6efc5c874b1fdf0618ad1e00bcc4a0b4c5e48dc4",
+      "bytes": 54857712,
+      "unpackedBytes": 71315925,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-9-test-2-academic-pages-017acce627e3.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "e02cdc4209856e299bebc27a122fb2b0a9a7c1ff7b606859bfdcaaef08579784",
+          "sourceLayoutHash": "c5cc83f48e663a212b72e496d7463ef83e9541e6860f59217a22fcd3b1dacf75",
+          "status": "verified"
+        },
+        "book": 9,
+        "test": "3",
+        "id": "cambridge-9-test-3-academic-pages",
+        "title": "剑雅 9 · Test 3",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-9-test-3-academic-pages-a5a9a71a3f08.zip",
+      "sha256": "8eef920dc8bc39eb6cb2724e7680720ea3516f3c5bf7625d69c698f5f0d80ddc",
+      "bytes": 58879531,
+      "unpackedBytes": 76188120,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-9-test-3-academic-pages-a5a9a71a3f08.zip"
+    },
+    {
+      "paper": {
+        "textEdition": {
+          "version": "690337bad19a38a7334540972c3c1ade12c3c3936e2e9152f353940f6532bac0",
+          "sourceLayoutHash": "0f61008483d81dd29cdb8dcbfd37bc888afa3cd66ff8558a2cf020e1c2343c54",
+          "status": "verified"
+        },
+        "book": 9,
+        "test": "4",
+        "id": "cambridge-9-test-4-academic-pages",
+        "title": "剑雅 9 · Test 4",
+        "subtitle": "剑雅真题 A 类 · 原页版 · 含本地听力",
+        "category": "academic",
+        "source": "imported",
+        "description": "用户本机资料导入；试题保留原页，支持计时、答题、录音及交卷后原书答案自查。",
+        "sections": [
+          {
+            "kind": "listening",
+            "title": "听力",
+            "durationSeconds": 2400,
+            "questionCount": 40
+          },
+          {
+            "kind": "reading",
+            "title": "A 类阅读",
+            "durationSeconds": 3600,
+            "questionCount": 40
+          },
+          {
+            "kind": "writing",
+            "title": "A 类写作",
+            "durationSeconds": 3600,
+            "questionCount": 2
+          },
+          {
+            "kind": "speaking",
+            "title": "口语",
+            "durationSeconds": 840,
+            "questionCount": 3
+          }
+        ]
+      },
+      "filename": "cambridge-9-test-4-academic-pages-9229a1f061e6.zip",
+      "sha256": "3b28d4019f2adc8a143f3ad6a867d9d6943dff8133e2e778818d4781e322dcc0",
+      "bytes": 54130662,
+      "unpackedBytes": 69793231,
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/packages/cambridge-9-test-4-academic-pages-9229a1f061e6.zip"
+    }
+  ],
+  "documents": [
+    {
+      "paperId": "cambridge-1-test-1-academic-pages",
+      "filename": "cambridge-1-test-1-academic-pages-c4f5b6320ccd.zip",
+      "bytes": 5676130,
+      "sha256": "e124e8d832e1b055c29692d691373762a2cb3f46452bd84b93b7788eb929556c",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-1-test-1-academic-pages-c4f5b6320ccd.zip"
+    },
+    {
+      "paperId": "cambridge-1-test-2-academic-pages",
+      "filename": "cambridge-1-test-2-academic-pages-db8d000a7bb5.zip",
+      "bytes": 5907407,
+      "sha256": "99bc4e2c3b2979d5fccdee147c354a46301d05ebf5b894f1a16af62eae408250",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-1-test-2-academic-pages-db8d000a7bb5.zip"
+    },
+    {
+      "paperId": "cambridge-1-test-3-academic-pages",
+      "filename": "cambridge-1-test-3-academic-pages-e2276c2f8cf1.zip",
+      "bytes": 5380042,
+      "sha256": "bf6cc088b205a380bd67e2abc910f0307aa9c054409029fdcd71488aa8233718",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-1-test-3-academic-pages-e2276c2f8cf1.zip"
+    },
+    {
+      "paperId": "cambridge-1-test-4-academic-pages",
+      "filename": "cambridge-1-test-4-academic-pages-779286a0adaf.zip",
+      "bytes": 5484965,
+      "sha256": "7499ff8ff924ccf907cb90a11734c289245b5d2437a9ffb893a12fb77a422095",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-1-test-4-academic-pages-779286a0adaf.zip"
+    },
+    {
+      "paperId": "cambridge-10-test-1-academic-pages",
+      "filename": "cambridge-10-test-1-academic-pages-5576a46a7c3f.zip",
+      "bytes": 28110664,
+      "sha256": "5fe88af6d411bb8ad259865e599f3ff3c37ed024c4a420b71e177239841d910f",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-10-test-1-academic-pages-5576a46a7c3f.zip"
+    },
+    {
+      "paperId": "cambridge-10-test-2-academic-pages",
+      "filename": "cambridge-10-test-2-academic-pages-c1e8a3647d1f.zip",
+      "bytes": 28250875,
+      "sha256": "4ccfbe4d9b4a8852d54db0133a993250a29334b0c579ffc8d2ee5502612dcb57",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-10-test-2-academic-pages-c1e8a3647d1f.zip"
+    },
+    {
+      "paperId": "cambridge-10-test-3-academic-pages",
+      "filename": "cambridge-10-test-3-academic-pages-3a8157411dfc.zip",
+      "bytes": 31075928,
+      "sha256": "6daf85f3be45b60eab3ecc498fad3027e85f8ac58e0be649b2dd45a9191890fb",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-10-test-3-academic-pages-3a8157411dfc.zip"
+    },
+    {
+      "paperId": "cambridge-10-test-4-academic-pages",
+      "filename": "cambridge-10-test-4-academic-pages-86d7668e24cf.zip",
+      "bytes": 29348883,
+      "sha256": "ed2bb4d6effbd7d5b2abd9f0891143858ee1503d61183064a1369f642cedd001",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-10-test-4-academic-pages-86d7668e24cf.zip"
+    },
+    {
+      "paperId": "cambridge-11-test-1-academic-pages",
+      "filename": "cambridge-11-test-1-academic-pages-886ad0accb08.zip",
+      "bytes": 28098783,
+      "sha256": "451e17909a4f784203aa79d010066679b4494a1439d7991f1068f97f40253ab2",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-11-test-1-academic-pages-886ad0accb08.zip"
+    },
+    {
+      "paperId": "cambridge-11-test-2-academic-pages",
+      "filename": "cambridge-11-test-2-academic-pages-f84cee36d3e0.zip",
+      "bytes": 26331575,
+      "sha256": "f50c875ee4ae7c92a48552c989ae209adf4039f635d30c28aca5cc9ddb260825",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-11-test-2-academic-pages-f84cee36d3e0.zip"
+    },
+    {
+      "paperId": "cambridge-11-test-3-academic-pages",
+      "filename": "cambridge-11-test-3-academic-pages-92a2490aedfa.zip",
+      "bytes": 25619819,
+      "sha256": "7c8f393a9f672c3c7c7149cb47ebc81a212d8644e0f432a136b1aff22d795189",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-11-test-3-academic-pages-92a2490aedfa.zip"
+    },
+    {
+      "paperId": "cambridge-11-test-4-academic-pages",
+      "filename": "cambridge-11-test-4-academic-pages-d8866668cdfa.zip",
+      "bytes": 25313188,
+      "sha256": "c38afb2ab14c9db4bc52c51cf81a4a9ca69cbdaab4a5173a7b3ede5924c3ebcf",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-11-test-4-academic-pages-d8866668cdfa.zip"
+    },
+    {
+      "paperId": "cambridge-12-test-5-academic-pages",
+      "filename": "cambridge-12-test-5-academic-pages-3370daec9066.zip",
+      "bytes": 38936790,
+      "sha256": "53d1391d4a51ba645f1bfb901c9e93370c477af020f4096c3ff33b76d80b0c03",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-12-test-5-academic-pages-3370daec9066.zip"
+    },
+    {
+      "paperId": "cambridge-12-test-6-academic-pages",
+      "filename": "cambridge-12-test-6-academic-pages-900426b736a1.zip",
+      "bytes": 42936422,
+      "sha256": "740bd730f9748a4ebad00faab0026ff0f81b2b811220d3c655f482b581536e1e",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-12-test-6-academic-pages-900426b736a1.zip"
+    },
+    {
+      "paperId": "cambridge-12-test-7-academic-pages",
+      "filename": "cambridge-12-test-7-academic-pages-2104fd68eff4.zip",
+      "bytes": 43223323,
+      "sha256": "04b9ef8465ae289fa7f27fd83c30e8ade2619a502521b3086ff15946d9f1f05f",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-12-test-7-academic-pages-2104fd68eff4.zip"
+    },
+    {
+      "paperId": "cambridge-12-test-8-academic-pages",
+      "filename": "cambridge-12-test-8-academic-pages-a0faf827f1ce.zip",
+      "bytes": 38316892,
+      "sha256": "c6166d4f142adf175104a9f15be789c987f7bf49e4c356bf39c90c5b70fee0af",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-12-test-8-academic-pages-a0faf827f1ce.zip"
+    },
+    {
+      "paperId": "cambridge-13-test-1-academic-pages",
+      "filename": "cambridge-13-test-1-academic-pages-6bdc132bda1d.zip",
+      "bytes": 19504608,
+      "sha256": "e054314fbc2deb3ba751698fc28a3dafb1375f70f35f9253415c43144b870a7f",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-13-test-1-academic-pages-6bdc132bda1d.zip"
+    },
+    {
+      "paperId": "cambridge-13-test-2-academic-pages",
+      "filename": "cambridge-13-test-2-academic-pages-8e507b54a3f1.zip",
+      "bytes": 22468090,
+      "sha256": "d1976edcc63509a421517b0ef06b54687a3fb6a4c5696021f5fe255a35619d30",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-13-test-2-academic-pages-8e507b54a3f1.zip"
+    },
+    {
+      "paperId": "cambridge-13-test-3-academic-pages",
+      "filename": "cambridge-13-test-3-academic-pages-cc1694e20e11.zip",
+      "bytes": 19864800,
+      "sha256": "d8b0e303f56d3c787dfb6c34d8963ac1204cdecfe2ab5280dd11f0584673824f",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-13-test-3-academic-pages-cc1694e20e11.zip"
+    },
+    {
+      "paperId": "cambridge-13-test-4-academic-pages",
+      "filename": "cambridge-13-test-4-academic-pages-67923c44eda3.zip",
+      "bytes": 20714162,
+      "sha256": "e09faeff1436f7ec6181b50292409aadbb51ad208eaa15a500a42a01a6800002",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-13-test-4-academic-pages-67923c44eda3.zip"
+    },
+    {
+      "paperId": "cambridge-14-test-1-academic-pages",
+      "filename": "cambridge-14-test-1-academic-pages-faee80d36d65.zip",
+      "bytes": 30783240,
+      "sha256": "f2177e15b4f21e186640c05a427725783f0cdb33d22ae51bb61c3d4a44cb7b5d",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-14-test-1-academic-pages-faee80d36d65.zip"
+    },
+    {
+      "paperId": "cambridge-14-test-2-academic-pages",
+      "filename": "cambridge-14-test-2-academic-pages-31077f6980c6.zip",
+      "bytes": 41837170,
+      "sha256": "1abe549a42048823a2d5f1f3af0f90fcb524ac67426f202fe13fc6f952af4e07",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-14-test-2-academic-pages-31077f6980c6.zip"
+    },
+    {
+      "paperId": "cambridge-14-test-3-academic-pages",
+      "filename": "cambridge-14-test-3-academic-pages-35d4180d7688.zip",
+      "bytes": 32117889,
+      "sha256": "519cca08809d6eb6fb516d73db53aa7e8a81cb2648eb6cc486099e07b449ba40",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-14-test-3-academic-pages-35d4180d7688.zip"
+    },
+    {
+      "paperId": "cambridge-14-test-4-academic-pages",
+      "filename": "cambridge-14-test-4-academic-pages-ce73725a643f.zip",
+      "bytes": 34372836,
+      "sha256": "a6a32e993bcbbe6be884edf5b093132a31f4056662352ae6af22f3a1bb23e286",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-14-test-4-academic-pages-ce73725a643f.zip"
+    },
+    {
+      "paperId": "cambridge-15-test-1-academic-pages",
+      "filename": "cambridge-15-test-1-academic-pages-1ab521958194.zip",
+      "bytes": 30400047,
+      "sha256": "3304cd1edf6911d61657933b9484b605cfca58f083bc32bdaf8c60b58c201239",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-15-test-1-academic-pages-1ab521958194.zip"
+    },
+    {
+      "paperId": "cambridge-15-test-2-academic-pages",
+      "filename": "cambridge-15-test-2-academic-pages-1ea4d0f992f1.zip",
+      "bytes": 30217252,
+      "sha256": "81b7e5c97004acf58579ffee84925533c978a60df999218d6bada9aa8af41ddb",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-15-test-2-academic-pages-1ea4d0f992f1.zip"
+    },
+    {
+      "paperId": "cambridge-15-test-3-academic-pages",
+      "filename": "cambridge-15-test-3-academic-pages-6b85fcdf849d.zip",
+      "bytes": 28366285,
+      "sha256": "21173995b26cac5b317a98b82224dc052ea3d922b3db0b0713ef899a1a8ea084",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-15-test-3-academic-pages-6b85fcdf849d.zip"
+    },
+    {
+      "paperId": "cambridge-15-test-4-academic-pages",
+      "filename": "cambridge-15-test-4-academic-pages-7f7d36d765a8.zip",
+      "bytes": 27943051,
+      "sha256": "85f49e1baaf838ef4fb13ad73c6027a077c2f81feede74395e8c7d24d4290fa6",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-15-test-4-academic-pages-7f7d36d765a8.zip"
+    },
+    {
+      "paperId": "cambridge-16-test-1-academic-pages",
+      "filename": "cambridge-16-test-1-academic-pages-a3140270b82d.zip",
+      "bytes": 50769440,
+      "sha256": "8e670b8ae171d721bef3c4006ac6506a3415aa66ddced34bfb7ca92e055db8e8",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-16-test-1-academic-pages-a3140270b82d.zip"
+    },
+    {
+      "paperId": "cambridge-16-test-2-academic-pages",
+      "filename": "cambridge-16-test-2-academic-pages-c2aaf8bd5eb4.zip",
+      "bytes": 52807724,
+      "sha256": "400bcc1c6090c87dd81dfef32b3389f6d9545fd5e0f2dac2b5742569bfa3509a",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-16-test-2-academic-pages-c2aaf8bd5eb4.zip"
+    },
+    {
+      "paperId": "cambridge-16-test-3-academic-pages",
+      "filename": "cambridge-16-test-3-academic-pages-0e8752e155cf.zip",
+      "bytes": 52811626,
+      "sha256": "0f85582d829fc44630dd71a7244345b875e2e29dcc30b734814f7897a11d8323",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-16-test-3-academic-pages-0e8752e155cf.zip"
+    },
+    {
+      "paperId": "cambridge-16-test-4-academic-pages",
+      "filename": "cambridge-16-test-4-academic-pages-eeed14413682.zip",
+      "bytes": 51269945,
+      "sha256": "7f9b7e45cb020606f7038e86586bb5111a6495f5b044302008f0080a914e8ab3",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-16-test-4-academic-pages-eeed14413682.zip"
+    },
+    {
+      "paperId": "cambridge-17-test-1-academic-pages",
+      "filename": "cambridge-17-test-1-academic-pages-032065e83989.zip",
+      "bytes": 31164923,
+      "sha256": "7843a68a232b97fb8db8625ac12eb5682fe54a9e9e42273cb36bd818c654f85c",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-17-test-1-academic-pages-032065e83989.zip"
+    },
+    {
+      "paperId": "cambridge-17-test-2-academic-pages",
+      "filename": "cambridge-17-test-2-academic-pages-70070458bcbf.zip",
+      "bytes": 31403458,
+      "sha256": "8208c177cc984d0de39d732d891ad116f674484f3c981a160d58d589ff823aa0",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-17-test-2-academic-pages-70070458bcbf.zip"
+    },
+    {
+      "paperId": "cambridge-17-test-3-academic-pages",
+      "filename": "cambridge-17-test-3-academic-pages-b10af282a40e.zip",
+      "bytes": 32092414,
+      "sha256": "1cfa4ffe749bf764bb86c5ef5ec6a2e7d3c3ba9fdd5d94de1984a0c6adbeb2df",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-17-test-3-academic-pages-b10af282a40e.zip"
+    },
+    {
+      "paperId": "cambridge-17-test-4-academic-pages",
+      "filename": "cambridge-17-test-4-academic-pages-dadc5631e95b.zip",
+      "bytes": 31550182,
+      "sha256": "144084f7c39e9d75f5731d5f5adce565c690d0e95be69ee0be3bf6dd7fdb85fd",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-17-test-4-academic-pages-dadc5631e95b.zip"
+    },
+    {
+      "paperId": "cambridge-18-test-1-academic-pages",
+      "filename": "cambridge-18-test-1-academic-pages-58d8562fbb8d.zip",
+      "bytes": 33166625,
+      "sha256": "5422398e4b0d6350433a10c71a9db92ec8df5e21693efc39b082f7646ae2f452",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-18-test-1-academic-pages-58d8562fbb8d.zip"
+    },
+    {
+      "paperId": "cambridge-18-test-2-academic-pages",
+      "filename": "cambridge-18-test-2-academic-pages-481e136764c9.zip",
+      "bytes": 33814405,
+      "sha256": "8bf09345ff677748e0b9215e3ed85c419270a5e2382d6a8d7565cac03ac7ba8e",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-18-test-2-academic-pages-481e136764c9.zip"
+    },
+    {
+      "paperId": "cambridge-18-test-3-academic-pages",
+      "filename": "cambridge-18-test-3-academic-pages-6e2d73e8fef1.zip",
+      "bytes": 33450631,
+      "sha256": "32bb7ea0887519468f488a388a96879453e3a0f91b174eab541c9894867bd5e4",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-18-test-3-academic-pages-6e2d73e8fef1.zip"
+    },
+    {
+      "paperId": "cambridge-18-test-4-academic-pages",
+      "filename": "cambridge-18-test-4-academic-pages-5604557bc8cd.zip",
+      "bytes": 33980700,
+      "sha256": "ee8aa72fd0d57b8563d96cc0aa76a3d4d769c1b2af9b2a539b2baded4008b451",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-18-test-4-academic-pages-5604557bc8cd.zip"
+    },
+    {
+      "paperId": "cambridge-2-test-1-academic-pages",
+      "filename": "cambridge-2-test-1-academic-pages-c2ac2fe30b2c.zip",
+      "bytes": 4198901,
+      "sha256": "f8a3bcd81cf8d08ceb634f3982fc181ee18cef479472737d926ed3dfc91a0377",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-2-test-1-academic-pages-c2ac2fe30b2c.zip"
+    },
+    {
+      "paperId": "cambridge-2-test-2-academic-pages",
+      "filename": "cambridge-2-test-2-academic-pages-ab7ff7cd3fb5.zip",
+      "bytes": 3900042,
+      "sha256": "5d3575d0dea5bacad107eda54e5a576c1e510660d2249402c3d83876668c0b5c",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-2-test-2-academic-pages-ab7ff7cd3fb5.zip"
+    },
+    {
+      "paperId": "cambridge-2-test-3-academic-pages",
+      "filename": "cambridge-2-test-3-academic-pages-de2e94c30ef8.zip",
+      "bytes": 3928913,
+      "sha256": "e7b42a38ff599830701b2ae3a44ff736f19b0b0ab1e9115dbf907f586964e080",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-2-test-3-academic-pages-de2e94c30ef8.zip"
+    },
+    {
+      "paperId": "cambridge-2-test-4-academic-pages",
+      "filename": "cambridge-2-test-4-academic-pages-51d85f7dad7f.zip",
+      "bytes": 4436000,
+      "sha256": "2b9012f424b48fcd1baa65a8e2cdf56924348ceef74644bd67a3fb054c885765",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-2-test-4-academic-pages-51d85f7dad7f.zip"
+    },
+    {
+      "paperId": "cambridge-3-test-1-academic-pages",
+      "filename": "cambridge-3-test-1-academic-pages-b37948bf2902.zip",
+      "bytes": 3929435,
+      "sha256": "a1bdd816ce3070ae67658fc34025bb703e33b256be35cd2f0a8ae32ce13cc36c",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-3-test-1-academic-pages-b37948bf2902.zip"
+    },
+    {
+      "paperId": "cambridge-3-test-2-academic-pages",
+      "filename": "cambridge-3-test-2-academic-pages-415d8f2fa33c.zip",
+      "bytes": 4184142,
+      "sha256": "f10a03e4401349bf9111fe13fb8a6a92bc7da68007352146f5149785ebd72743",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-3-test-2-academic-pages-415d8f2fa33c.zip"
+    },
+    {
+      "paperId": "cambridge-3-test-3-academic-pages",
+      "filename": "cambridge-3-test-3-academic-pages-2115155d6cbe.zip",
+      "bytes": 4069664,
+      "sha256": "4e2723b785496cfbb389fa9b77086c781b540510d2de9e25b4c04343db0e73ae",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-3-test-3-academic-pages-2115155d6cbe.zip"
+    },
+    {
+      "paperId": "cambridge-3-test-4-academic-pages",
+      "filename": "cambridge-3-test-4-academic-pages-bdc0b5add9a2.zip",
+      "bytes": 3960492,
+      "sha256": "274b0b959d764b32cc06c7df565930dc68cf8a39b7ac4ae3ef9ace67e0c877f9",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-3-test-4-academic-pages-bdc0b5add9a2.zip"
+    },
+    {
+      "paperId": "cambridge-4-test-1-academic-pages",
+      "filename": "cambridge-4-test-1-academic-pages-55e94a6dcbff.zip",
+      "bytes": 24222825,
+      "sha256": "9b3ad8ffa64b5538d5860dc55813b3fe2123607fe1f999ad3c8cc2fefae86b1d",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-4-test-1-academic-pages-55e94a6dcbff.zip"
+    },
+    {
+      "paperId": "cambridge-4-test-2-academic-pages",
+      "filename": "cambridge-4-test-2-academic-pages-a9255b846152.zip",
+      "bytes": 24037472,
+      "sha256": "44dd790356d7757dc01ce320ca0f9a2a20daaf9f626398204c21b663e50155f7",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-4-test-2-academic-pages-a9255b846152.zip"
+    },
+    {
+      "paperId": "cambridge-4-test-3-academic-pages",
+      "filename": "cambridge-4-test-3-academic-pages-1cb2940c8ef2.zip",
+      "bytes": 23121929,
+      "sha256": "04b67ce599ee786c5c0da9fe05f42fa07420684a8eaecf16fbd4fe0a89ffb072",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-4-test-3-academic-pages-1cb2940c8ef2.zip"
+    },
+    {
+      "paperId": "cambridge-4-test-4-academic-pages",
+      "filename": "cambridge-4-test-4-academic-pages-88aaee46ac10.zip",
+      "bytes": 24707774,
+      "sha256": "ec6d280ac3f3fdfa328b99f4e1c43a246390ae6f8c8263f7d403cf75d3c26d63",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-4-test-4-academic-pages-88aaee46ac10.zip"
+    },
+    {
+      "paperId": "cambridge-5-test-1-academic-local",
+      "filename": "cambridge-5-test-1-academic-local-71c169c9ebb0.zip",
+      "bytes": 23018292,
+      "sha256": "7bbbd40d598876a5896a2c6a9552adfad69f30e8a898d45a6825a262cdc329c8",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-5-test-1-academic-local-71c169c9ebb0.zip"
+    },
+    {
+      "paperId": "cambridge-5-test-1-academic-pages",
+      "filename": "cambridge-5-test-1-academic-pages-9cce99fda09f.zip",
+      "bytes": 10667536,
+      "sha256": "cf05840749331ab63d97cbe73d17c4dde879baccb215a66920173e084978a674",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-5-test-1-academic-pages-9cce99fda09f.zip"
+    },
+    {
+      "paperId": "cambridge-5-test-2-academic-pages",
+      "filename": "cambridge-5-test-2-academic-pages-9807980b5e25.zip",
+      "bytes": 11708359,
+      "sha256": "95127ba79bb91eb0c0edee3d9d3d715eb9b24909f753a6b77d68b35b9efc2f43",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-5-test-2-academic-pages-9807980b5e25.zip"
+    },
+    {
+      "paperId": "cambridge-5-test-3-academic-pages",
+      "filename": "cambridge-5-test-3-academic-pages-c8ed4284373d.zip",
+      "bytes": 11663613,
+      "sha256": "e4b9e19ed703582a493c44313a040548e7c958ca10abfd8dc2ca16da09d436a4",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-5-test-3-academic-pages-c8ed4284373d.zip"
+    },
+    {
+      "paperId": "cambridge-5-test-4-academic-pages",
+      "filename": "cambridge-5-test-4-academic-pages-2ff5daa34286.zip",
+      "bytes": 10785264,
+      "sha256": "a07e56f4bc188f6b64132381163df0b1f84c48ed0c905a332eb69f45237186c1",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-5-test-4-academic-pages-2ff5daa34286.zip"
+    },
+    {
+      "paperId": "cambridge-6-test-1-academic-pages",
+      "filename": "cambridge-6-test-1-academic-pages-347ae19227c7.zip",
+      "bytes": 10480846,
+      "sha256": "10032566d9d4cdd9897d15b93babab021662c444205f317a5d56b6770a3fa42d",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-6-test-1-academic-pages-347ae19227c7.zip"
+    },
+    {
+      "paperId": "cambridge-6-test-2-academic-pages",
+      "filename": "cambridge-6-test-2-academic-pages-98daaca0a450.zip",
+      "bytes": 10731941,
+      "sha256": "13fdc8cc2c9b68e9618d23f06092d68c7e8bfd04cc81516350c163123a4ba98d",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-6-test-2-academic-pages-98daaca0a450.zip"
+    },
+    {
+      "paperId": "cambridge-6-test-3-academic-pages",
+      "filename": "cambridge-6-test-3-academic-pages-9729d8b8b832.zip",
+      "bytes": 10940295,
+      "sha256": "53af66668cbee3a4c4aa19ef42dcb26709f70724e39a8d161f55fa6d3e9f5e5e",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-6-test-3-academic-pages-9729d8b8b832.zip"
+    },
+    {
+      "paperId": "cambridge-6-test-4-academic-pages",
+      "filename": "cambridge-6-test-4-academic-pages-8d6a9f6f4d14.zip",
+      "bytes": 10606746,
+      "sha256": "1e369e5db35243c7ab38dfa28d85a0033d80692759d8d6b238c6bfadf332ffcc",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-6-test-4-academic-pages-8d6a9f6f4d14.zip"
+    },
+    {
+      "paperId": "cambridge-7-test-1-academic-pages",
+      "filename": "cambridge-7-test-1-academic-pages-25fd31db022c.zip",
+      "bytes": 29961069,
+      "sha256": "bbb5ed79ac1f3d6094adfe1e175e714c9efbec08089538f1fbef7faa38eb18bd",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-7-test-1-academic-pages-25fd31db022c.zip"
+    },
+    {
+      "paperId": "cambridge-7-test-2-academic-pages",
+      "filename": "cambridge-7-test-2-academic-pages-95f56ccc6cef.zip",
+      "bytes": 26852960,
+      "sha256": "5b59dec302a88a8e85cb1fde8ba30ad92fb0c936a8bd9789fc6792348b5e538e",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-7-test-2-academic-pages-95f56ccc6cef.zip"
+    },
+    {
+      "paperId": "cambridge-7-test-3-academic-pages",
+      "filename": "cambridge-7-test-3-academic-pages-cb73d38b5c7d.zip",
+      "bytes": 27529408,
+      "sha256": "a60300c47838f05c86cda1c81bf2cb16b4ed218800a42082e12206dea29a0a07",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-7-test-3-academic-pages-cb73d38b5c7d.zip"
+    },
+    {
+      "paperId": "cambridge-7-test-4-academic-pages",
+      "filename": "cambridge-7-test-4-academic-pages-4a5bc6caae60.zip",
+      "bytes": 24857947,
+      "sha256": "79b2135260a2a100cda5cade4c4a27019ad129e5c9cb69ecd867078373d3b969",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-7-test-4-academic-pages-4a5bc6caae60.zip"
+    },
+    {
+      "paperId": "cambridge-8-test-1-academic-pages",
+      "filename": "cambridge-8-test-1-academic-pages-a17b69d69041.zip",
+      "bytes": 18007619,
+      "sha256": "2ad6fd50921c3e0c5954dd247ffe54c351056b0119500cd26adbbbb270178158",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-8-test-1-academic-pages-a17b69d69041.zip"
+    },
+    {
+      "paperId": "cambridge-8-test-2-academic-pages",
+      "filename": "cambridge-8-test-2-academic-pages-242457ee21be.zip",
+      "bytes": 18024734,
+      "sha256": "1fa1ff83b3d80587cf3bee88774c9ae1d15d629b39ce4cfc4cf2f827dac0cb8c",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-8-test-2-academic-pages-242457ee21be.zip"
+    },
+    {
+      "paperId": "cambridge-8-test-3-academic-pages",
+      "filename": "cambridge-8-test-3-academic-pages-e5f4c088c439.zip",
+      "bytes": 17986387,
+      "sha256": "9a929c13ee284d69b808555f44f9e11cca18897c8a65c373535e4bf44bb8756c",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-8-test-3-academic-pages-e5f4c088c439.zip"
+    },
+    {
+      "paperId": "cambridge-8-test-4-academic-pages",
+      "filename": "cambridge-8-test-4-academic-pages-28dd00336da3.zip",
+      "bytes": 16594006,
+      "sha256": "eec5dc4e06405d4e36c4f20b2cba4125d1ccc5f25448dfc292613c8fa0b6b294",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-8-test-4-academic-pages-28dd00336da3.zip"
+    },
+    {
+      "paperId": "cambridge-9-test-1-academic-pages",
+      "filename": "cambridge-9-test-1-academic-pages-e6e338024f38.zip",
+      "bytes": 56402359,
+      "sha256": "9d997d1e2813b228b25fc9460fcde6fe066091bd57ecd1019047ff50899e9d82",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-9-test-1-academic-pages-e6e338024f38.zip"
+    },
+    {
+      "paperId": "cambridge-9-test-2-academic-pages",
+      "filename": "cambridge-9-test-2-academic-pages-0bc4a28a5de9.zip",
+      "bytes": 54851300,
+      "sha256": "a8f31f0679afcfc87402d0881cb84c2f7a47e05c018934cbd243237d266470bb",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-9-test-2-academic-pages-0bc4a28a5de9.zip"
+    },
+    {
+      "paperId": "cambridge-9-test-3-academic-pages",
+      "filename": "cambridge-9-test-3-academic-pages-e02cdc420985.zip",
+      "bytes": 58865910,
+      "sha256": "defaaaaaa28f739f27446a7ae9bcd7f9cd0ca0cdcfbfe32d99852c622ad67b67",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-9-test-3-academic-pages-e02cdc420985.zip"
+    },
+    {
+      "paperId": "cambridge-9-test-4-academic-pages",
+      "filename": "cambridge-9-test-4-academic-pages-690337bad19a.zip",
+      "bytes": 54126091,
+      "sha256": "4d6f94ee1be73ca8bab16e879ea4461555a5a77bf8168fd822952aec004c6a25",
+      "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/documents/cambridge-9-test-4-academic-pages-690337bad19a.zip"
+    }
+  ],
+  "audit": {
+    "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/c/text-v1/staged/20261024-text-v3/audit-summary.json",
+    "bytes": 1596548,
+    "sha256": "591db9dd54e57ebd04dbc3ee1c28206c62eb25dc5d381adb4831bf0e3cf817c2"
+  }
+}
