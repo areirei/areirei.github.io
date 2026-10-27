@@ -3147,30 +3147,30 @@
   ],
   "runtime": {
     "schema": 1,
-    "revision": 3,
-    "publishedAt": "2026-10-24T09:25:54.607135779Z",
+    "revision": 4,
+    "publishedAt": "2026-10-27T06:15:06.441328707Z",
     "access": {
       "defaultEnabled": true,
       "showDisabledReason": true,
       "versions": {}
     },
     "release": {
-      "version": "0.3.4",
-      "notes": "旺旺雅思 · 雅基 YaKey 0.3.4\n\n修复 Learning space → Test history → Answer review 中的写作批改证据校验。\n\n- 明确原文引用与缺失证据规则，并提供实际题干中的引用片段；缺少概述或论证不再要求模型编造题干原句。\n- 题干引用兼容换行、连续空格和 Unicode 空白，并还原保存真实来源；作文原句仍逐字定位，错误题干、改写与伪造引文仍拒绝。\n- 校验错误指出具体维度、建议和字段，最多一次结构修复；无效结果不产生分数。\n- 协议升级为 writing-json-evidence-3，评分标准不变，不统一加分，不改变历史分数、原稿或 AI 配置。建议更新继续不改分。\n\n已安装正式版可在设置中检查更新，保存作文并退出考试/录音后点击“重启升级”。升级不自动调用 AI；失败的批改需重新点击对应入口，已有报告可选择“重新评分”。无需重新导入已安装题包。\n\n继续包含0.3.3的剑雅文字资料、原页切换和受控升级。73个试卷ID均有独立试题、答案文档及核验记录；写作复盘直接使用已核对文字资料，视觉识别为可选操作。\n\n- 文字题包使用独立签名目录，旧题包继续兼容；下载入口显示“文字资料可升级”。\n- 升级保留原答卷、历史成绩、笔记、录音和Anki标识；活跃考试继续使用原快照，手动写作上下文不会自动覆盖。\n- 剑雅11 Test4阅读Q19–26按有来源的勘误修正未来新作答判分，原印答案和历史成绩保留。\n- 剑雅1–3缺音频、剑雅2 Test2听力Section4缺题页及其他来源瑕疵如实标明；剑雅2 Test1损坏图值继续限制完整任务评分。\n\n- 设置页可切换 English / 中文，默认英文；教材原文保持不变。\n- Windows 下载支持系统代理。听力进入或切换 Part 时尝试播放，播放受限时显示手动播放入口。\n- 模考精简题号、旗帜、Part 导航与原页工具栏，点击题号定位已核验原页；无可靠关联时明确提示，不猜页码。\n- 答卷复盘按科目汇集题目、答案和音频，提供独立 Correct / Incorrect / Undo。复核分不改变自动成绩、Band、错题或 Anki 筛选。\n- 优化透明 Logo，保留原有答卷、计时、录音、阅读状态和应用标识。\n\nWindows：完整解压 YaKey-Windows-x64.zip，运行 ielts-studio.exe，并保留旁边的 yakey-updater.exe。需要 WebView2 Runtime。\n\nMac：解压 YaKey-macOS-universal.zip，将 YaKey.app 放入可写的应用程序目录。包含 Intel 和 Apple Silicon，最低 macOS 11。当前采用 ad-hoc 签名，未做 Apple 公证；macOS 12.7.6 实机启动、麦克风和升级仍需用户验收。\n\n首次启动须联网验证签名配置，成功后的使用许可可离线缓存 7 天。试卷按需下载，不随应用打包；已安装资料不自动替换。剑雅 1–3 的 12 套仍缺听力音频，卡片会提示。\n\n此前 Start-test 启动器使用独立测试配置和数据，请手动安装本正式版。测试数据不会自动迁入正式目录。升级正式版前退出旧程序并备份个人数据；默认 Windows 数据目录为 %APPDATA%\\IELTSStudio，Mac 为 ~/Library/Application Support/IELTSStudio。\n\n文字资料覆盖剑雅1–18的72套原页卷及独立剑雅5 Test1结构化卷，保留剑雅12 Test5–8编号。1767个来源页已逐页对照，原页卷144道写作题和结构化卷2题均有核验记录。已知来源缺项不补造；详细范围、验证和回滚见源码desktop/docs/TEXT-MATERIALS.md及覆盖表。\n\n两个平台 ZIP 均提供 SHA-256 校验文件。未增加 iPad 客户端或 iCloud 同步。",
+      "version": "0.3.8",
+      "notes": "旺旺雅思 · 雅基 YaKey 0.3.8\n\n新增英文日记、OpenAI 接入与更紧凑的学习界面。\n\n- 学习空间增加“日记”：按日期浏览、本地搜索、自动保存、手动“保存并批改”。逐项应用、忽略和撤销建议，保留送评原文与历史报告；日记采用独立定性评价，不套用雅思分数。\n- 设置页增加 OpenAI 官方 API 接入，使用 Responses API 并显式设置 store:false。支持可编辑模型 ID、模型列表、连接测试与加密配置分享；实际可用模型以账户权限及连接测试为准。已有混元、CloudBase、火山方舟配置不自动切换，视觉模型仍可留空。\n- 日记搜索移到左上方，左侧仅显示标题或日期，欢迎说明收纳在 AI 批改旁的“？”提示中，支持悬停、键盘和触摸。\n- 日记与雅思批改统一显示动画、已等待时间、真实处理阶段、模型与等待上限；整套批改显示当前 Task 和处理篇数。支持取消与读取失败后恢复，不用虚假百分比或倒计时表示模型进度。\n- 修复日记报告生成后读取失败无法恢复的问题；超时或取消后的迟到结果不得覆盖当前内容。模型响应时间仍由平台和模型决定。\n- 每日有效交卷、写作修改、题目自查或日记保存计入轻量学习连胜；同日只计一次。学习总览合并陪伴与连胜信息，给练习入口留出空间。\n- 正常关闭桌面窗口前保存编辑内容；保存失败时保留窗口。密钥使用操作系统凭据存储，不可用时仅保留在当前进程；日记与学习数据只在本机保存，只有主动点击批改才发送对应内容。\n\n升级保留旧答卷、成绩、录音、笔记、Anki 标识、AI 配置和已下载题包，不自动调用 AI，也不改写历史评分。日记本地使用无需配置 AI。OpenAI 接口兼容测试不等于真实账户联调或雅思评分校准；本版未宣称新的评分准确率。\n\n已安装正式版：在“关于 / 更新”检查更新，下载完成后保存编辑、退出考试或录音，再点击“重启升级”。手动升级请退出旧应用、备份个人数据，并完整替换程序包。\n\nWindows：完整解压 YaKey-Windows-x64.zip，运行 ielts-studio.exe，并保留 yakey-updater.exe。需要 WebView2 Runtime。\n\nMac：解压 YaKey-macOS-universal.zip，将 YaKey.app 放入可写的应用程序目录。支持 Intel 和 Apple Silicon，最低 macOS 11；当前采用 ad-hoc 签名，未做 Apple 公证。macOS 实机启动、麦克风及升级仍需设备验收，CI 构建不替代实机验证。\n\n首次启动须联网验证签名配置，成功后的使用许可可离线缓存 7 天。试卷按需下载，不随应用打包；73 套文字资料与原页继续兼容，已知缺页及缺音频标注保留。此前 Start-test 启动器使用独立测试数据，不会自动迁入正式目录。\n\n个人数据：Windows 为 %APPDATA%\\IELTSStudio；Mac 为 ~/Library/Application Support/IELTSStudio。两个平台 ZIP 均提供 SHA-256 校验文件。源码和程序包不含个人作文、日记、学习记录、API Key 或本机教材。",
       "platforms": {
         "windows": {
-          "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/updates/0.3.4/YaKey-Windows-x64.zip",
-          "bytes": 20455036,
-          "sha256": "f7036b993ceec511049adbeab1cad7c0075c77d5767d399ffa4070b82e6179da",
+          "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/updates/0.3.8/YaKey-Windows-x64.zip",
+          "bytes": 20519886,
+          "sha256": "22a66bd9f218a171dc469658d4338d73f3e087e9c8b0e532db5510d13b79a806",
           "architectures": [
             "amd64"
           ],
           "minimumOS": "10.0"
         },
         "darwin": {
-          "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/updates/0.3.4/YaKey-macOS-universal.zip",
-          "bytes": 41589440,
-          "sha256": "678d427a5ed82836aac0cae3785c4ae37db7a836be2d0a1b9f2735d5d49f279f",
+          "url": "https://github.com/areirei/areirei.github.io/raw/refs/heads/material/updates/0.3.8/YaKey-macOS-universal.zip",
+          "bytes": 41711802,
+          "sha256": "8c322a135ec322cf8958f3067b16ab99ab4cd20b31f3ce18a8f392846222539d",
           "architectures": [
             "amd64",
             "arm64"
@@ -6325,5 +6325,5 @@
       }
     ]
   },
-  "signature": "TUqRJ2GZNMy7lmHwtZU9trIkEjHPmci09XZKt1/sPP0fLmXg5lyze4ur14wm/tUBS3TCkrqcQsrqEbWEqlUOBg=="
+  "signature": "vzO09PayICjYIbVOCGQIeAq9/yabkwzrqtOR0rkAQT0Emt/UFS0i5aE0IYyWQFmuobkskfRLTsSl8yKvMsQPCA=="
 }
